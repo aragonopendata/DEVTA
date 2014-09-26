@@ -1,0 +1,658 @@
+
+**Script para descargar toda la informacion sobre la comunidad autonoma**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma.json?_sort=label&_pageSize=50&_view=completa&api_key=$akey&_page=0"
+echo "Script iniciado ..."
+echo "Aragón Open Data - Comunidad Autonoma"
+echo "$i : $url$i"
+content="$(curl -s "$url$i")"
+echo "$content" >> ccaa.json
+
+**Script para descargar toda la informacion sobre las provincias**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/recurso/territorio/Provincia.json?_sort=label&_pageSize=50&_view=completa&api_key=$akey&_page=0"
+echo "Script iniciado ..."
+echo "Aragón Open Data - Provincias"
+echo "$i : $url$i"
+content="$(curl -s "$url$i")"
+echo "$content" >> provincias.json
+
+**Script para descargar toda la informacion sobre las comarcas**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/recurso/territorio/Comarca.json?_sort=label&_pageSize=50&_view=completa&api_key=$akey&_page=0"
+echo "Script iniciado ..."
+echo "Aragón Open Data - Comarcas"
+echo "$i : $url$i"
+content="$(curl -s "$url$i")"
+echo "$content" >> comarcas.json
+
+**Script para descargar toda la informacion sobre los municipios**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/recurso/territorio/Municipio.json?_sort=label&_pageSize=50&_view=completa&api_key=$akey&_page="
+echo "Script iniciado ..."
+echo "Aragón Open Data - Municipios"
+for i in {0..14}; do
+    echo "$i : $url$i"
+    content="$(curl -s "$url$i")"
+    echo "$content" >> municipios.json
+    echo "[FINALDEPETICION]" >> municipios.json
+    sleep 15
+done
+
+**Script para descargar todas las estadísticas de población de las comarcas (desde 1998 hasta 2013)**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%20"
+echo "Script iniciado ..."
+echo "Aragón Open Data - Estadísticas de población"
+for i in {1998..2013}; do
+    echo "$i : $url$i.%20Comarcas.json?api_key=$akey"
+    content="$(curl -s "$url$i.%20Comarcas.json?api_key=$akey")"
+    echo "$content" >> statComarcas.json
+    echo "[FINALDEPETICION]" >> statComarcas.json
+    sleep 15
+done
+
+**Script para descargar todas las estadísticas de población de los municipios (desde 1998 hasta 2013)**
+
+#!/bin/bash
+akey=6413a2996e49f99a9e1270178b08d269
+url="http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%20"
+echo "Script iniciado ..."
+echo "Aragón Open Data - Estadísticas de población"
+for i in {1998..2013}; do
+    echo "$i : $url$i.%20Municipios.json?api_key=$akey"
+    content="$(curl -s "$url$i.%20Municipios.json?api_key=$akey")"
+    echo "$content" >> statMunicipios.json
+    echo "[FINALDEPETICION]" >> statMunicipios.json
+    sleep 15
+done
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+**Fuentes de datos utilizadas**
+
+Padrón Municipal  (Padrón Provincial y Autónomico incluido)
+
+[Año 1998](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%201998.%20Municipios.json), [Año 1999](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%201999.%20Municipios.json), [Año 2000](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202000.%20Municipios.json), [Año 2001](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202001.%20Municipios.json), [Año 2002](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202002.%20Municipios.json), [Año 2003](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202003.%20Municipios.json), [Año 2004](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202004.%20Municipios.json), [Año 2005](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202005.%20Municipios.json), [Año 2006](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202006.%20Municipios.json), [Año 2007](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202007.%20Municipios.json), [Año 2008](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202008.%20Municipios.json), [Año 2009](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202009.%20Municipios.json), [Año 2010](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202010.%20Municipios.json), [Año 2011](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202011.%20Municipios.json), [Año 2012](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202012.%20Municipios.json), [Año 2013](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202013.%20Municipios.json)
+
+Padrón Comarcal 
+
+[Año 1998](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%201998.%20Comarcas.json), [Año 1999](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%201999.%20Comarcas.json), [Año 2000](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202000.%20Comarcas.json), [Año 2001](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202001.%20Comarcas.json), [Año 2002](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202002.%20Comarcas.json), [Año 2003](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202003.%20Comarcas.json), [Año 2004](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202004.%20Comarcas.json), [Año 2005](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202005.%20Comarcas.json), [Año 2006](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202006.%20Comarcas.json), [Año 2007](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202007.%20Comarcas.json), [Año 2008](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202008.%20Comarcas.json), [Año 2009](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202009.%20Comarcas.json), [Año 2010](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202010.%20Comarcas.json), [Año 2011](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202011.%20Comarcas.json), [Año 2012](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202012.%20Comarcas.json), [Año 2013](http://opendata.aragon.es/catalogo/render/resource/Cifras%20de%20Poblaci%C3%B3n.%20Revisi%C3%B3n%20del%20Padr%C3%B3n%20municipal.%202013.%20Comarcas.json)
+
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+**Libreria con el comando ogr2ogr para convertir .shp a .kml**
+
+[GDAL Library for Mac OS](http://www.kyngchaos.com/software:frameworks)
+
+**Ejecución para convertir archivos .shp en .kml e importarlos luego en Fusion Tables**
+
+ogr2ogr -f "KML" kml_file.kml shp_file.kml
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+**Script para convertir los datos de los recursos encontrados y pasarlos a JSON con la uri como key:**
+
+Siendo b igual al JSON de recursos conseguido con el script y eliminado "[FINALDEPETICION]"
+
+var result = {};
+
+for(var i = 0; i < b.length; i++)
+{
+  result[b[i]['_about'] = b[i];
+}
+
+**Script para convertir la estadística de población de Comarcas a JSON con la uri como key:**
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.   // info_mun.json
+
+Siendo b igual al JSON de estadística conseguida.                           // Cifras_poblacion_1998_2013_Comarcas.json
+
+Siendo com igual al JSON de recursos de comarcas con la uri como key.       // info_mun_api_hashmap.json
+
+var result = {};
+
+for(var k in c){
+  result[k]={};
+}
+
+var oldtitulo = 1998;
+var n = 0;
+console.log(b.length);
+for(var i = 0; i < b.length; i++)
+{
+  var titulo = oldtitulo + (n);
+  console.log(titulo + " N: "+i+" titulo: "+b[i].name);
+  var keyTitulo = "Población a 1 de enero del "+titulo;
+  if(i >= 0 && i < 5)
+  {
+    var comienzo = 21;                  // Valor inicial donde empiezan los datos
+    var codigo = 1;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_COMARC';    // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t === 6 || t === 8 || t === 10) // Asignar los campos según posicion que queremos guardar
+            {  
+              result[j][keyTitulo][b[i].rows[comienzo-1].values[t]] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+  }
+  else if(i >= 5 && i <= 18)
+  {
+    var comienzo = 10;                  // Valor inicial donde empiezan los datos
+    var codigo = 0;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_COMARC';    // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t > 1) // Asignar los campos según posicion que queremos guardar
+            {  
+              result[j][keyTitulo][b[i].rows[comienzo-2].values[t]] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+    if(i > 8) i++;
+  }
+  else if(i === 19)
+  {
+    var comienzo = 10;                  // Valor inicial donde empiezan los datos
+    var codigo = 0;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_COMARC';    // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t > 1 && t < 5) // Asignar los campos según posicion que queremos guardar
+            {  
+              result[j][keyTitulo][b[i].rows[comienzo-2].values[t]] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+  }
+  else
+  {
+      var comienzo = 12;                  // Valor inicial donde empiezan los datos
+      var codigo = 0;                     // Valor de la posición del código del recurso
+      var keyCodigo = 'CODIGO_COMARC';    // Valor de la clave código del recurso
+      for (var z = comienzo; z < b[i].rows.length; z++) 
+      {
+        for(var j in c)
+        {
+          var cod = b[i].rows[z].values[codigo].slice(0,2);
+          if (parseInt(cod, 10) === parseInt(c[j][keyCodigo], 10))
+          {
+            result[j][keyTitulo] = {};
+            for (var t = 0; t <b[i].rows[z].values.length; t++)
+            {
+              if(t > 0 && t < 4) // Asignar los campos según posicion que queremos guardar
+              {  
+                if(t === 1) result[j][keyTitulo]["Total"] = b[i].rows[z].values[t];
+                else result[j][keyTitulo][b[i].rows[comienzo-5].values[t]] = b[i].rows[z].values[t];
+              }
+            }
+          } 
+        }
+      }
+  }
+  n++;
+}
+
+var resultParse = {};
+for(var k in com)
+{
+ for(var t in result)
+ {
+   for(var n = 0; n < com[k]['contieneMunicipio'].length; n++)
+   {
+     if(t === com[k]['contieneMunicipio'][n]) 
+     {  
+       resultParse[k] = result[t];
+       break;
+      }
+    }
+  }
+}
+JSON.stringify(resultParse);
+
+**Script para convertir la estadística de población de Municipios a JSON con la uri como key:**
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.      // info_mun.js
+
+Siendo b igual al JSON de estadística conseguida.                              // Cifras_poblacion_1998_2013_Municipios.json
+
+var result = {};
+
+for(var k in c){
+  result[k]={};
+}
+
+var oldtitulo = 1998;
+var n = 0;
+console.log(b.length);
+for(var i = 0; i < b.length; i++)
+{
+  var titulo = oldtitulo + (n);
+  console.log(titulo + " N: "+i+" titulo: "+b[i].name);
+  var keyTitulo = "Población a 1 de enero del "+titulo;
+  if(i >= 0 && i < 5)
+  {
+    var comienzo;                  // Valor inicial donde empiezan los datos
+    var resto;                     // Valor a restar al inicial para leyenda
+    var codigo;
+    if(i === 0){
+      comienzo = 21;
+      resto = 11;
+      codigo = 1;
+    }
+    else if(i === 1 || i === 2){
+      comienzo = 23;
+      resto = 13;
+      codigo = 2;
+    }
+    else if(i === 3 || i === 4){
+      comienzo = 22;
+      resto = 12;
+      codigo = 2;
+    }
+    var keyCodigo = 'CODIGO_MUN';       // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t === 6 || t === 8 || t === 10) // Asignar los campos según posicion que queremos guardar
+            {  
+              var keyValor = b[i].rows[comienzo-resto].values[t];
+              if(keyValor === 'Varones') keyValor = 'Hombres';
+              result[j][keyTitulo][keyValor] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+  }
+  else if(i > 4 && i < 10)
+  {
+    var comienzo = 18;                  // Valor inicial donde empiezan los datos
+    var resto = 2;                     // Valor a restar al inicial para leyenda
+    var codigo = 0;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_MUN';       // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t > 1) // Asignar los campos según posicion que queremos guardar
+            {  
+              var keyValor = b[i].rows[comienzo-resto].values[t];
+              if(keyValor === 'Varones') keyValor = 'Hombres';
+              result[j][keyTitulo][keyValor] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+    if(i === 9) i = 15;
+  }
+  else if(i === 16 || i === 23)
+  {
+    var comienzo = 10;                  // Valor inicial donde empiezan los datos
+    var resto = 2;                     // Valor a restar al inicial para leyenda
+    var codigo = 0;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_MUN';       // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t > 4 && t < 8) // Asignar los campos según posicion que queremos guardar
+            {  
+              var keyValor = b[i].rows[comienzo-resto].values[t];
+              if(keyValor === 'Varones') keyValor = 'Hombres';
+              result[j][keyTitulo][keyValor] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+    if(i === 16) i = 22; 
+    if(i === 23) i = 29;
+  }
+  else if(i === 30 || i === 37 || i === 47)
+  {
+    var comienzo = 10;                  // Valor inicial donde empiezan los datos
+    var resto = 2;                     // Valor a restar al inicial para leyenda
+    var codigo = 0;                     // Valor de la posición del código del recurso
+    var keyCodigo = 'CODIGO_MUN';       // Valor de la clave código del recurso
+    for (var z = comienzo; z < b[i].rows.length; z++) 
+    {
+      for(var j in c)
+      {
+        if (parseInt(b[i].rows[z].values[codigo], 10) === parseInt(c[j][keyCodigo], 10))
+        {
+          result[j][keyTitulo] = {};
+          for (var t = 0; t <b[i].rows[z].values.length; t++)
+          {
+            if(t > 1 && t < 5) // Asignar los campos según posicion que queremos guardar
+            {  
+              var keyValor = b[i].rows[comienzo-resto].values[t];
+              if(keyValor === 'Varones') keyValor = 'Hombres';
+              result[j][keyTitulo][keyValor] = b[i].rows[z].values[t];
+            }
+          }
+        } 
+      }
+    }
+    if(i === 30) i = 36;
+    if(i === 37) i = 46;
+    if(i === 47) i = 58;
+  }
+  else if(i === 59)
+  {
+    var comienzo = 11;                  // Valor inicial donde empiezan los datos
+      var codigo = 0;                     // Valor de la posición del código del recurso
+      var keyCodigo = 'CODIGO_MUN';    // Valor de la clave código del recurso
+      for (var z = comienzo; z < b[i].rows.length; z++) 
+      {
+        for(var j in c)
+        {
+          var cod = b[i].rows[z].values[codigo].slice(0,5);
+          if (parseInt(cod, 10) === parseInt(c[j][keyCodigo], 10))
+          {
+            result[j][keyTitulo] = {};
+            for (var t = 0; t <b[i].rows[z].values.length; t++)
+            {
+              if(t > 0 && t < 4) // Asignar los campos según posicion que queremos guardar
+              {  
+                if(t === 1) result[j][keyTitulo]["Total"] = b[i].rows[z].values[t];
+                else result[j][keyTitulo][b[i].rows[comienzo-5].values[t]] = b[i].rows[z].values[t];
+              }
+            }
+          } 
+        }
+      }
+    break;
+  }
+  n++;
+}
+JSON.stringify(result);
+
+**Script para convertir la estadística de población de Municipios a Provincial
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.      // info_mun.js
+
+Siendo b igual al JSON de estadística conseguida.                              // Cifras_poblacion_1998_2013_Municipios.json
+
+var result = {
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca" : {},
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel" : {},
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza" : {}
+};
+
+var oldtitulo = 1998;
+var n = 0;
+
+for(var i in b)
+{
+  var u;
+  if(c[i]["COD_PROVINCIA"] === "22")
+  {
+     u = "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca";
+  }
+  else if(c[i]["COD_PROVINCIA"] === "44")
+  {
+     u = "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel";
+  }
+  else u = "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza";
+  for(var j in b[i])
+  {
+     if(typeof result[u][j] === 'undefined')
+     {
+        result[u][j] = b[i][j]; 
+     }
+     else
+     {
+        for(var k in b[i][j])
+        {
+          result[u][j][k] = "" + (parseFloat(result[u][j][k], 10) + parseFloat(b[i][j][k], 10)) + "";
+        }
+     }
+  }
+}
+JSON.stringify(result);
+
+**Script para convertir la estadística de población de Municipios a Comunidad Autónoma
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.      // info_mun.js
+
+Siendo b igual al JSON de estadística conseguida.                              // Cifras_poblacion_1998_2013_Municipios.json
+
+var result = {
+  "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón" : {}
+};
+
+var oldtitulo = 1998;
+var n = 0;
+var u = "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón";
+
+for(var i in b)
+{
+  for(var j in b[i])
+  {
+     if(typeof result[u][j] === 'undefined')
+     {
+        result[u][j] = b[i][j]; 
+     }
+     else
+     {
+        for(var k in b[i][j])
+        {
+          result[u][j][k] = "" + (parseFloat(result[u][j][k], 10) + parseFloat(b[i][j][k], 10)) + "";
+        }
+     }
+  }
+}
+JSON.stringify(result);
+
+**Script para convertir la estadística de accidentes de tráfico de Municipios a Provincias
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.      // info_mun.js
+
+Siendo b igual al JSON de estadística conseguida.                              // Parseadas_Accidentes_trafico_2007_2012_Municipios.json
+
+var result = {
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca" : {},
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel" : {},
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza" : {}
+};
+
+var oldtitulo = 1998;
+var n = 0;
+
+for(var i in b)
+{
+  var u;
+  if(c[i]["COD_PROVINCIA"] === "22")
+  {
+     u = "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca";
+  }
+  else if(c[i]["COD_PROVINCIA"] === "44")
+  {
+     u = "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel";
+  }
+  else u = "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza";
+  for(var j in b[i])
+  {
+     if(typeof result[u][j] === 'undefined')
+     {
+        result[u][j] = {};
+        for(var k in b[i][j])
+        {
+          if(k !== 'Municipio' && k !== 'Código Ine' && k !== 'Comarca')
+          {
+            if(k === 'Provincia') result[u][j][k] = b[i][j][k];
+            else result[u][j][k] = "" + parseFloat(b[i][j][k], 10) + "";
+          }
+        }
+     }
+     else
+     {
+        for(var k in b[i][j])
+        {
+          if(k !== 'Municipio' && k !== 'Código Ine' && k !== 'Comarca')
+          {
+            if(k === 'Provincia') result[u][j][k] = b[i][j][k];
+            else result[u][j][k] = "" + (parseFloat(result[u][j][k], 10) + parseFloat(b[i][j][k], 10)) + "";
+          }
+        }
+     }
+  }
+}
+JSON.stringify(result);
+
+**Script para convertir la estadística de accidentes de tráfico de Municipios a Comunidad Autónoma
+
+Siendo c igual al JSON de recursos convertido a JSON con la uri como key.      // info_mun.js
+
+Siendo b igual al JSON de estadística conseguida.                              // Parseadas_Accidentes_trafico_2007_2012_Municipios.json
+
+var result = {
+  "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón" : {}
+};
+
+var oldtitulo = 1998;
+var n = 0;
+var u = "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón";
+
+for(var i in b)
+{
+  for(var j in b[i])
+  {
+     if(typeof result[u][j] === 'undefined')
+     {
+        result[u][j] = {};
+        for(var k in b[i][j])
+        {
+          if(k !== 'Municipio' && k !== 'Código Ine' && k !== 'Comarca' && k !== 'Provincia')
+          {
+            result[u][j][k] = "" + parseFloat(b[i][j][k], 10) + "";
+          }
+        }
+     }
+     else
+     {
+        for(var k in b[i][j])
+        {
+          if(k !== 'Municipio' && k !== 'Código Ine' && k !== 'Comarca' && k !== 'Provincia')
+          {
+            result[u][j][k] = "" + (parseFloat(result[u][j][k], 10) + parseFloat(b[i][j][k], 10)) + "";
+          }
+        }
+     }
+  }
+}
+JSON.stringify(result);
+
+
+** Script para sacar estadisticas de accidentes a partir de una uri
+
+var uriBuscar = "http://opendata.aragon.es/recurso/territorio/Municipio/Abiego";
+var result = [];
+var parseBolas = function(uri,uriBuscar){
+   busq = ["Total Accidentes", "Total V’ctimas Mortales", 
+              "Total Heridos Graves", "Total Heridos Leves", 
+              "Carretera Accidentes", "Carretera V’ctimas Mortales",
+             "Carretera Heridos Graves", "Carretera Heridos Leves","V’a urbana Accidentes",
+              "V’a urbana V’ctimas Mortales", "V’a urbana Heridos Graves",
+             "V’a urbana Heridos Leves"];
+  
+  for (var t = 0; t<busq.length; t++){
+    var ret = {
+      "articles": {},
+       "total": 0,
+      "name": busq[t]
+    };
+    for(j in uri[uriBuscar]){
+      var n = j.slice(j.length-5,j.length-1);
+      ret['articles'][n] = parseInt(uri[uriBuscar][j][busq[t]],10); 
+      ret['total'] += ret['articles'][n]; 
+    }
+    var retAux = Object.keys(ret['articles']).sort(function(a,b){return a-b});
+    var r = [];
+    for(var i = 0; i< retAux.length; i++){
+      r.push([parseInt(retAux[i],10),ret['articles'][retAux[i]]]);
+    }
+    ret['articles'] = r;
+    result.push(ret);
+  }
+  
+};
+parseBolas(uri,uriBuscar);
+JSON.stringify(result);
+
+// PASAR DATOS A JSON DESDE OTRO JSON SPARQL CON DOS COLUMNAS
+
+var j = json.results.bindings;
+
+var a = [];
+for(var i = 0; i < j.length; i++)
+{
+    a.push([j[i].x.value,j[i].p.value]);
+}
+
+JSON.stringify(a);
