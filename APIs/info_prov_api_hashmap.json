@@ -1,0 +1,365 @@
+{
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca": {
+    "pais": "http://es.dbpedia.org/resource/España",
+    "hombres": "106962",
+    "label": "Huesca (provincia)",
+    "enlaces": "http://es.dbpedia.org/resource/Provincia_de_Huesca",
+    "comunidadAutonoma": "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón",
+    "datoEstadistico": [
+      {
+        "fecha": "Sun, 01 Jan 2012 00:00:00",
+        "kilosVidrio": "6002670",
+        "contenedoresVidrio": "1576",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__1"
+      },
+      {
+        "fecha": "Wed, 01 Jan 2003 00:00:00",
+        "kilosVidrio": "3242500",
+        "contenedoresVidrio": "928",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__10"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2000 00:00:00",
+        "kilosVidrio": "2266600",
+        "contenedoresVidrio": "847",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__11"
+      },
+      {
+        "fecha": "Fri, 01 Jan 1999 00:00:00",
+        "kilosVidrio": "1924814",
+        "contenedoresVidrio": "830",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__12"
+      },
+      {
+        "fecha": "Thu, 01 Jan 1998 00:00:00",
+        "kilosVidrio": "1629530",
+        "contenedoresVidrio": "527",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__13"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "kilosVidrio": "5942040",
+        "contenedoresVidrio": "1505",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__2"
+      },
+      {
+        "fecha": "Fri, 01 Jan 2010 00:00:00",
+        "kilosVidrio": "5878690",
+        "contenedoresVidrio": "1350",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__3"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2009 00:00:00",
+        "kilosVidrio": "5547994",
+        "contenedoresVidrio": "1303",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__4"
+      },
+      {
+        "fecha": "Tue, 01 Jan 2008 00:00:00",
+        "kilosVidrio": "5704460",
+        "contenedoresVidrio": "1280",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__5"
+      },
+      {
+        "fecha": "Mon, 01 Jan 2007 00:00:00",
+        "kilosVidrio": "5274069",
+        "contenedoresVidrio": "1388",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__6"
+      },
+      {
+        "fecha": "Sun, 01 Jan 2006 00:00:00",
+        "kilosVidrio": "4424270",
+        "contenedoresVidrio": "1233",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__7"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2005 00:00:00",
+        "kilosVidrio": "3802890",
+        "contenedoresVidrio": "1111",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__8"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2004 00:00:00",
+        "kilosVidrio": "3535380",
+        "contenedoresVidrio": "1099",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__1388__1__9"
+      },
+      {
+        "establecimientos": "400",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Hotel",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "18694",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__400__1__1"
+      },
+      {
+        "establecimientos": "66",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Camping",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "25274",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__400__1__2"
+      },
+      {
+        "establecimientos": "702",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/TurismoRural",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "5186",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__400__1__3"
+      },
+      {
+        "establecimientos": "195",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Apartamento",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "3656",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Huesca_(provincia)__400__1__4"
+      }
+    ],
+    "mujeres": "104324",
+    "_about": "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca"
+  },
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel": {
+    "pais": "http://es.dbpedia.org/resource/España",
+    "hombres": "70641",
+    "label": "Teruel (provincia)",
+    "enlaces": "http://es.dbpedia.org/resource/Provincia_de_Teruel",
+    "comunidadAutonoma": "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón",
+    "datoEstadistico": [
+      {
+        "establecimientos": "250",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Hotel",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "7870",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__250__1__1"
+      },
+      {
+        "establecimientos": "22",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Camping",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "4205",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__250__1__2"
+      },
+      {
+        "establecimientos": "341",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/TurismoRural",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "2673",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__250__1__3"
+      },
+      {
+        "establecimientos": "77",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Apartamento",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "1370",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__250__1__4"
+      },
+      {
+        "fecha": "Sun, 01 Jan 2012 00:00:00",
+        "kilosVidrio": "3362220",
+        "contenedoresVidrio": "918",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__1"
+      },
+      {
+        "fecha": "Wed, 01 Jan 2003 00:00:00",
+        "kilosVidrio": "1956310",
+        "contenedoresVidrio": "685",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__10"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2000 00:00:00",
+        "kilosVidrio": "1305570",
+        "contenedoresVidrio": "622",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__11"
+      },
+      {
+        "fecha": "Fri, 01 Jan 1999 00:00:00",
+        "kilosVidrio": "1229400",
+        "contenedoresVidrio": "556",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__12"
+      },
+      {
+        "fecha": "Thu, 01 Jan 1998 00:00:00",
+        "kilosVidrio": "913920",
+        "contenedoresVidrio": "327",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__13"
+      },
+      {
+        "fecha": "Wed, 01 Jan 1997 00:00:00",
+        "kilosVidrio": "839980",
+        "contenedoresVidrio": "247",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__14"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "kilosVidrio": "3257940",
+        "contenedoresVidrio": "922",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__2"
+      },
+      {
+        "fecha": "Fri, 01 Jan 2010 00:00:00",
+        "kilosVidrio": "3198350",
+        "contenedoresVidrio": "905",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__3"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2009 00:00:00",
+        "kilosVidrio": "3177230",
+        "contenedoresVidrio": "827",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__4"
+      },
+      {
+        "fecha": "Tue, 01 Jan 2008 00:00:00",
+        "kilosVidrio": "3246420",
+        "contenedoresVidrio": "822",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__5"
+      },
+      {
+        "fecha": "Mon, 01 Jan 2007 00:00:00",
+        "kilosVidrio": "3077850",
+        "contenedoresVidrio": "843",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__6"
+      },
+      {
+        "fecha": "Sun, 01 Jan 2006 00:00:00",
+        "kilosVidrio": "2555440",
+        "contenedoresVidrio": "826",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__7"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2005 00:00:00",
+        "kilosVidrio": "2346150",
+        "contenedoresVidrio": "766",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__8"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2004 00:00:00",
+        "kilosVidrio": "2100330",
+        "contenedoresVidrio": "769",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Teruel_(provincia)__843__1__9"
+      }
+    ],
+    "mujeres": "68045",
+    "_about": "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel"
+  },
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza": {
+    "pais": "http://es.dbpedia.org/resource/España",
+    "hombres": "432607",
+    "label": "Zaragoza (provincia)",
+    "enlaces": "http://es.dbpedia.org/resource/Provincia_de_Zaragoza",
+    "comunidadAutonoma": "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón",
+    "datoEstadistico": [
+      {
+        "fecha": "Sun, 01 Jan 2012 00:00:00",
+        "kilosVidrio": "14456880",
+        "contenedoresVidrio": "3093",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__1"
+      },
+      {
+        "fecha": "Wed, 01 Jan 2003 00:00:00",
+        "kilosVidrio": "8921320",
+        "contenedoresVidrio": "1722",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__10"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2000 00:00:00",
+        "kilosVidrio": "6507180",
+        "contenedoresVidrio": "1527",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__11"
+      },
+      {
+        "fecha": "Fri, 01 Jan 1999 00:00:00",
+        "kilosVidrio": "6109840",
+        "contenedoresVidrio": "1474",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__12"
+      },
+      {
+        "fecha": "Thu, 01 Jan 1998 00:00:00",
+        "kilosVidrio": "5627040",
+        "contenedoresVidrio": "1304",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__13"
+      },
+      {
+        "fecha": "Wed, 01 Jan 1997 00:00:00",
+        "kilosVidrio": "5111470",
+        "contenedoresVidrio": "948",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__14"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "kilosVidrio": "14031270",
+        "contenedoresVidrio": "3008",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__2"
+      },
+      {
+        "fecha": "Fri, 01 Jan 2010 00:00:00",
+        "kilosVidrio": "14088420",
+        "contenedoresVidrio": "2968",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__3"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2009 00:00:00",
+        "kilosVidrio": "13912400",
+        "contenedoresVidrio": "2816",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__4"
+      },
+      {
+        "fecha": "Tue, 01 Jan 2008 00:00:00",
+        "kilosVidrio": "13484460",
+        "contenedoresVidrio": "2845",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__5"
+      },
+      {
+        "fecha": "Mon, 01 Jan 2007 00:00:00",
+        "kilosVidrio": "12708260",
+        "contenedoresVidrio": "2840",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__6"
+      },
+      {
+        "fecha": "Sun, 01 Jan 2006 00:00:00",
+        "kilosVidrio": "11184020",
+        "contenedoresVidrio": "2681",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__7"
+      },
+      {
+        "fecha": "Sat, 01 Jan 2005 00:00:00",
+        "kilosVidrio": "10406570",
+        "contenedoresVidrio": "2406",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__8"
+      },
+      {
+        "fecha": "Thu, 01 Jan 2004 00:00:00",
+        "kilosVidrio": "9566490",
+        "contenedoresVidrio": "1990",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__2840__1__9"
+      },
+      {
+        "establecimientos": "329",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Hotel",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "18948",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__329__1__1"
+      },
+      {
+        "establecimientos": "14",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Camping",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "4497",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__329__1__2"
+      },
+      {
+        "establecimientos": "222",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/TurismoRural",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "1840",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__329__1__3"
+      },
+      {
+        "establecimientos": "34",
+        "tipoEstablecimiento": "http://opendata.aragon.es/recurso/economia/turismo/Apartamento",
+        "fecha": "Sat, 01 Jan 2011 00:00:00",
+        "plazas": "816",
+        "_about": "http://opendata.aragon.es/recurso/estadistica/Observacion/Zaragoza_(provincia)__329__1__4"
+      }
+    ],
+    "mujeres": "447511",
+    "_about": "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza"
+  }
+}
