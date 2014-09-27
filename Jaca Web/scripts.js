@@ -170,7 +170,7 @@ function showOnMap(type){
 
 google.maps.event.addDomListener(window, 'load', initialize);
 	function showStat(uri, label){//h hash de estadisticas
-		if(estadisticasGuardadas.indexOf(uri)>=0 || estadisticasGuardadas.length>=10){alert('Error.'); return;}
+		if(estadisticasGuardadas.indexOf(uri)>=0 || estadisticasGuardadas.length>=10){alert('Error: ya se ha añadido el geo-recurso, '+label); return;}
 		var lish = document.getElementById('estadisticas').getElementsByTagName('ul');
 		if(lish.length === 0){
 			document.getElementById('estadisticas').getElementsByTagName('p')[0].insertAdjacentHTML("afterend","<ul></ul>");
