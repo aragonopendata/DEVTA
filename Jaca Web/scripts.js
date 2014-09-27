@@ -362,9 +362,9 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	    }
 		for(var k = 0; k < urisB.length;k++){
 			var t = urisB[k][0].slice(0,urisB[k][0].lastIndexOf('/'));
-			if(t === 'http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma') urisaB = statPoblaComunidad;
-			else if(t === 'http://opendata.aragon.es/recurso/territorio/Provincia') urisaB = statPoblaProvincias;
-			else if(t === 'http://opendata.aragon.es/recurso/territorio/Comarca') urisaB = statPoblaComarcas;
+			if(t.indexOf('http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma')>=0) urisaB = statPoblaComunidad;
+			else if(t.indexOf('http://opendata.aragon.es/recurso/territorio/Provincia')>=0) urisaB = statPoblaProvincias;
+			else if(t.indexOf('http://opendata.aragon.es/recurso/territorio/Comarca')>=0) urisaB = statPoblaComarcas;
 			else urisaB = statPoblaMunicipios;
 	    	for (var t = 0; t < busq.length; t++){
 	    		 var keyValue = (urisB.length > 1) ? urisB[k][1] : busq[t];
@@ -373,7 +373,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 			      "values": []
 			    };    
 	    		for(j in urisaB[urisB[k][0]]){ // j = año
-	      			var n = j.slice(j.length-6,j.length); // n = año string
+	      			var n = parseInt(j.slice(j.length-4,j.length),10); // n = año string
 	      			ret.values.push([n, parseInt(urisaB[urisB[k][0]][j][busq[t]],10)]);  
 	    		}
 	    		result.push(ret);
@@ -396,9 +396,9 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	    }
 		for(var k = 0; k<urisB.length;k++){
 			var t = urisB[k][0].slice(0,urisB[k][0].lastIndexOf('/'));
-			if(t === 'http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma') urisaB = statAcciComunidad;
-			else if(t === 'http://opendata.aragon.es/recurso/territorio/Provincia') urisaB = statAcciProvincias;
-			else if(t === 'http://opendata.aragon.es/recurso/territorio/Comarca') urisaB = statAcciComarcas;
+			if(t.indexOf('http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma')>=0) urisaB = statAcciComunidad;
+			else if(t.indexOf('http://opendata.aragon.es/recurso/territorio/Provincia')>=0) urisaB = statAcciProvincias;
+			else if(t.indexOf('http://opendata.aragon.es/recurso/territorio/Comarca')>=0) urisaB = statAcciComarcas;
 			else urisaB = statAcciMunicipios;
 	    	for (var t = 0; t < busq.length; t++){
 	    		 var nameValue = (urisB.length > 1) ? urisB[k][1] : busq[t];
