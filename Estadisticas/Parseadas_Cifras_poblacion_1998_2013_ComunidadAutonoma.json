@@ -1,0 +1,84 @@
+{
+  "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón": {
+    "Población a 1 de enero del 1998": {
+      "Total": "2365671",
+      "Hombres": "1164312",
+      "Mujeres": "1201359"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "2372916",
+      "Hombres": "1168312",
+      "Mujeres": "1204604"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "2379035",
+      "Hombres": "1171833",
+      "Mujeres": "1207202"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "2398721",
+      "Hombres": "1184951",
+      "Mujeres": "1213770"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "2434261",
+      "Hombres": "1205893",
+      "Mujeres": "1228368"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "2459435",
+      "Hombres": "1220026",
+      "Mujeres": "1239409"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "2498426",
+      "Hombres": "1241348",
+      "Mujeres": "1257078"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "2537319",
+      "Hombres": "1263895",
+      "Mujeres": "1273424"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "2554198",
+      "Hombres": "1272910",
+      "Mujeres": "1281288"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "2592579",
+      "Hombres": "1293587",
+      "Mujeres": "1298992"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "2653114",
+      "Hombres": "1328406",
+      "Mujeres": "1324708"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "2690257",
+      "Hombres": "1347251",
+      "Mujeres": "1343006"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "2693500",
+      "Hombres": "1345970",
+      "Mujeres": "1347530"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "2691890",
+      "Hombres": "1342187",
+      "Mujeres": "1349703"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "2698263",
+      "Hombres": "1343427",
+      "Mujeres": "1354836"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "2693625",
+      "Hombres": "1339599",
+      "Mujeres": "1354026"
+    }
+  }
+}

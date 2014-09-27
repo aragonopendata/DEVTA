@@ -1,0 +1,102 @@
+{
+  "http://opendata.aragon.es/recurso/territorio/ComunidadAutonoma/Aragón": {
+    "ComunidadAutonoma. Año 2011.": {
+      "Total Accidentes": "2108",
+      "Total Víctimas Mortales": "76",
+      "Total Heridos Graves": "518",
+      "Total Heridos Leves": "2368",
+      "Carretera Accidentes": "1089",
+      "Carretera Víctimas Mortales": "67",
+      "Carretera Heridos Graves": "306",
+      "Carretera Heridos Leves": "1293",
+      "Vía urbana Accidentes": "1019",
+      "Vía urbana Víctimas Mortales": "9",
+      "Vía urbana Heridos Graves": "212",
+      "Vía urbana Heridos Leves": "1075"
+    },
+    "ComunidadAutonoma. Año 2009.": {
+      "Total Accidentes": "2487",
+      "Total Víctimas Mortales": "106",
+      "Total Heridos Graves": "577",
+      "Total Heridos Leves": "2852",
+      "Carretera Accidentes": "1324",
+      "Carretera Víctimas Mortales": "89",
+      "Carretera Heridos Graves": "356",
+      "Carretera Heridos Leves": "1620",
+      "Vía urbana Accidentes": "1163",
+      "Vía urbana Víctimas Mortales": "17",
+      "Vía urbana Heridos Graves": "221",
+      "Vía urbana Heridos Leves": "1232"
+    },
+    "ComunidadAutonoma. Año 2008.": {
+      "Total Accidentes": "11136",
+      "Total Víctimas Mortales": "131",
+      "Total Heridos Graves": "848",
+      "Total Heridos Leves": "3270",
+      "Carretera Accidentes": "5512",
+      "Carretera Víctimas Mortales": "113",
+      "Carretera Heridos Graves": "612",
+      "Carretera Heridos Leves": "1872",
+      "Vía urbana Accidentes": "5624",
+      "Vía urbana Víctimas Mortales": "18",
+      "Vía urbana Heridos Graves": "236",
+      "Vía urbana Heridos Leves": "1398"
+    },
+    "ComunidadAutonoma. Año 2007.": {
+      "Total Accidentes": "3230",
+      "Total Víctimas Mortales": "179",
+      "Total Heridos Graves": "969",
+      "Total Heridos Leves": "3696",
+      "Carretera Accidentes": "1875",
+      "Carretera Víctimas Mortales": "153",
+      "Carretera Heridos Graves": "719",
+      "Carretera Heridos Leves": "2191",
+      "Vía urbana Accidentes": "1355",
+      "Vía urbana Víctimas Mortales": "26",
+      "Vía urbana Heridos Graves": "250",
+      "Vía urbana Heridos Leves": "1505"
+    },
+    "ComunidadAutonoma. Año 2006.": {
+      "Total Accidentes": "2989",
+      "Total Víctimas Mortales": "156",
+      "Total Heridos Graves": "930",
+      "Total Heridos Leves": "3492",
+      "Carretera Accidentes": "1741",
+      "Carretera Víctimas Mortales": "143",
+      "Carretera Heridos Graves": "698",
+      "Carretera Heridos Leves": "2107",
+      "Vía urbana Accidentes": "1248",
+      "Vía urbana Víctimas Mortales": "13",
+      "Vía urbana Heridos Graves": "232",
+      "Vía urbana Heridos Leves": "1385"
+    },
+    "ComunidadAutonoma. Año 2012.": {
+      "Total Accidentes": "2041",
+      "Total Víctimas Mortales": "73",
+      "Total Heridos Graves": "438",
+      "Total Heridos Leves": "2281",
+      "Carretera Accidentes": "976",
+      "Carretera Víctimas Mortales": "11",
+      "Carretera Heridos Graves": "194",
+      "Carretera Heridos Leves": "995",
+      "Vía urbana Accidentes": "1065",
+      "Vía urbana Víctimas Mortales": "62",
+      "Vía urbana Heridos Graves": "244",
+      "Vía urbana Heridos Leves": "1286"
+    },
+    "ComunidadAutonoma. Año 2010.": {
+      "Total Accidentes": "2322",
+      "Total Víctimas Mortales": "92",
+      "Total Heridos Graves": "579",
+      "Total Heridos Leves": "2666",
+      "Carretera Accidentes": "1309",
+      "Carretera Víctimas Mortales": "74",
+      "Carretera Heridos Graves": "347",
+      "Carretera Heridos Leves": "1605",
+      "Vía urbana Accidentes": "1013",
+      "Vía urbana Víctimas Mortales": "18",
+      "Vía urbana Heridos Graves": "232",
+      "Vía urbana Heridos Leves": "1061"
+    }
+  }
+}

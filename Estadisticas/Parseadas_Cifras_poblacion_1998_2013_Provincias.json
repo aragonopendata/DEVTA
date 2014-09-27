@@ -1,0 +1,248 @@
+{
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Huesca": {
+    "Población a 1 de enero del 1998": {
+      "Total": "204840",
+      "Hombres": "102792",
+      "Mujeres": "102048"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "205318",
+      "Hombres": "103077",
+      "Mujeres": "102241"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "205319",
+      "Hombres": "103161",
+      "Mujeres": "102158"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "205843",
+      "Hombres": "103651",
+      "Mujeres": "102192"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "208855",
+      "Hombres": "105508",
+      "Mujeres": "103347"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "211177",
+      "Hombres": "106904",
+      "Mujeres": "104273"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "212796",
+      "Hombres": "107904",
+      "Mujeres": "104892"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "215752",
+      "Hombres": "109808",
+      "Mujeres": "105944"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "217912",
+      "Hombres": "110922",
+      "Mujeres": "106990"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "220001",
+      "Hombres": "111919",
+      "Mujeres": "108082"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "225162",
+      "Hombres": "114879",
+      "Mujeres": "110283"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "228310",
+      "Hombres": "116572",
+      "Mujeres": "111738"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "228462",
+      "Hombres": "116463",
+      "Mujeres": "111999"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "228257",
+      "Hombres": "116163",
+      "Mujeres": "112094"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "227512",
+      "Hombres": "115455",
+      "Mujeres": "112057"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "226230",
+      "Hombres": "114722",
+      "Mujeres": "111508"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Teruel": {
+    "Población a 1 de enero del 1998": {
+      "Total": "136840",
+      "Hombres": "68995",
+      "Mujeres": "67845"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "136849",
+      "Hombres": "69032",
+      "Mujeres": "67817"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "136473",
+      "Hombres": "68900",
+      "Mujeres": "67573"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "136233",
+      "Hombres": "68877",
+      "Mujeres": "67356"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "137342",
+      "Hombres": "69682",
+      "Mujeres": "67660"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "138686",
+      "Hombres": "70641",
+      "Mujeres": "68045"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "139333",
+      "Hombres": "71073",
+      "Mujeres": "68260"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "141091",
+      "Hombres": "72273",
+      "Mujeres": "68818"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "142160",
+      "Hombres": "73069",
+      "Mujeres": "69091"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "144046",
+      "Hombres": "74262",
+      "Mujeres": "69784"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "146324",
+      "Hombres": "75777",
+      "Mujeres": "70547"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "146751",
+      "Hombres": "75733",
+      "Mujeres": "71018"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "145277",
+      "Hombres": "74563",
+      "Mujeres": "70714"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "144607",
+      "Hombres": "74008",
+      "Mujeres": "70599"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "143728",
+      "Hombres": "73478",
+      "Mujeres": "70250"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "142183",
+      "Hombres": "72529",
+      "Mujeres": "69654"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Provincia/Zaragoza": {
+    "Población a 1 de enero del 1998": {
+      "Total": "841438",
+      "Hombres": "410517",
+      "Mujeres": "430921"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "844571",
+      "Hombres": "412194",
+      "Mujeres": "432377"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "848006",
+      "Hombres": "414002",
+      "Mujeres": "434004"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "857565",
+      "Hombres": "420094",
+      "Mujeres": "437471"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "871209",
+      "Hombres": "427901",
+      "Mujeres": "443308"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "880118",
+      "Hombres": "432607",
+      "Mujeres": "447511"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "897350",
+      "Hombres": "441840",
+      "Mujeres": "455510"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "912072",
+      "Hombres": "450006",
+      "Mujeres": "462066"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "917288",
+      "Hombres": "452607",
+      "Mujeres": "464681"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "932502",
+      "Hombres": "460756",
+      "Mujeres": "471746"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "955323",
+      "Hombres": "473687",
+      "Mujeres": "481636"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "970313",
+      "Hombres": "481456",
+      "Mujeres": "488857"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "973252",
+      "Hombres": "482090",
+      "Mujeres": "491162"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "973325",
+      "Hombres": "481054",
+      "Mujeres": "492271"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "978130",
+      "Hombres": "482908",
+      "Mujeres": "495222"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "978638",
+      "Hombres": "482677",
+      "Mujeres": "495961"
+    }
+  }
+}

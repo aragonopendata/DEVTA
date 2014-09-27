@@ -1,0 +1,2708 @@
+{
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Alto_Gállego": {
+    "Población a 1 de enero del 1998": {
+      "Total": "12102.0",
+      "Hombres": "6194.0",
+      "Mujeres": "5908.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "12101.0",
+      "Hombres": "6181.0",
+      "Mujeres": "5920.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "12117.0",
+      "Hombres": "6189.0",
+      "Mujeres": "5928.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "11955.0",
+      "Hombres": "6103.0",
+      "Mujeres": "5852.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "12320.0",
+      "Hombres": "6278.0",
+      "Mujeres": "6042.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "12593.0",
+      "Hombres": "6404.0",
+      "Mujeres": "6189.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "12749.0",
+      "Hombres": "6483.0",
+      "Mujeres": "6266.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "13121.0",
+      "Hombres": "6722.0",
+      "Mujeres": "6399.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "13457.0",
+      "Hombres": "6920.0",
+      "Mujeres": "6537.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "13955.0",
+      "Hombres": "7160.0",
+      "Mujeres": "6795.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "14570.0",
+      "Hombres": "7517.0",
+      "Mujeres": "7053.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "14916.0",
+      "Hombres": "7700.0",
+      "Mujeres": "7216.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "14921.0",
+      "Hombres": "7697.0",
+      "Mujeres": "7224.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "14820.0",
+      "Hombres": "7618.0",
+      "Mujeres": "7202.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "14641.0",
+      "Hombres": "7526.0",
+      "Mujeres": "7115.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "14447.0",
+      "Hombres": "7416.0",
+      "Mujeres": "7031.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Andorra-Sierra_de_Arcos": {
+    "Población a 1 de enero del 1998": {
+      "Total": "11728.0",
+      "Hombres": "6011.0",
+      "Mujeres": "5717.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "11568.0",
+      "Hombres": "5927.0",
+      "Mujeres": "5641.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "11397.0",
+      "Hombres": "5820.0",
+      "Mujeres": "5577.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "11172.0",
+      "Hombres": "5729.0",
+      "Mujeres": "5443.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "11165.0",
+      "Hombres": "5757.0",
+      "Mujeres": "5408.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "11138.0",
+      "Hombres": "5757.0",
+      "Mujeres": "5381.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "11139.0",
+      "Hombres": "5743.0",
+      "Mujeres": "5396.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "11158.0",
+      "Hombres": "5746.0",
+      "Mujeres": "5412.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "11123.0",
+      "Hombres": "5737.0",
+      "Mujeres": "5386.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "11312.0",
+      "Hombres": "5862.0",
+      "Mujeres": "5450.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "11542.0",
+      "Hombres": "6018.0",
+      "Mujeres": "5524.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "11601.0",
+      "Hombres": "6040.0",
+      "Mujeres": "5561.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "11523.0",
+      "Hombres": "5973.0",
+      "Mujeres": "5550.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "11450.0",
+      "Hombres": "5911.0",
+      "Mujeres": "5539.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "11299.0",
+      "Hombres": "5831.0",
+      "Mujeres": "5468.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "11113.0",
+      "Hombres": "5711.0",
+      "Mujeres": "5402.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Aranda": {
+    "Población a 1 de enero del 1998": {
+      "Total": "8113.0",
+      "Hombres": "4100.0",
+      "Mujeres": "4013.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "8127.0",
+      "Hombres": "4110.0",
+      "Mujeres": "4017.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "8052.0",
+      "Hombres": "4072.0",
+      "Mujeres": "3980.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "7996.0",
+      "Hombres": "4058.0",
+      "Mujeres": "3938.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "8018.0",
+      "Hombres": "4099.0",
+      "Mujeres": "3919.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "8054.0",
+      "Hombres": "4114.0",
+      "Mujeres": "3940.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "7992.0",
+      "Hombres": "4076.0",
+      "Mujeres": "3916.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "7833.0",
+      "Hombres": "4010.0",
+      "Mujeres": "3823.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "7681.0",
+      "Hombres": "3934.0",
+      "Mujeres": "3747.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "7627.0",
+      "Hombres": "3937.0",
+      "Mujeres": "3690.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "7631.0",
+      "Hombres": "3925.0",
+      "Mujeres": "3706.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "7696.0",
+      "Hombres": "3969.0",
+      "Mujeres": "3727.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "7617.0",
+      "Hombres": "3933.0",
+      "Mujeres": "3684.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "7501.0",
+      "Hombres": "3879.0",
+      "Mujeres": "3622.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "7412.0",
+      "Hombres": "3822.0",
+      "Mujeres": "3590.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "7268.0",
+      "Hombres": "3750.0",
+      "Mujeres": "3518.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Bajo_Aragón": {
+    "Población a 1 de enero del 1998": {
+      "Total": "26024.0",
+      "Hombres": "13039.0",
+      "Mujeres": "12985.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "25962.0",
+      "Hombres": "13008.0",
+      "Mujeres": "12954.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "26120.0",
+      "Hombres": "13096.0",
+      "Mujeres": "13024.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "26413.0",
+      "Hombres": "13297.0",
+      "Mujeres": "13116.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "26853.0",
+      "Hombres": "13557.0",
+      "Mujeres": "13296.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "27705.0",
+      "Hombres": "14064.0",
+      "Mujeres": "13641.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "28137.0",
+      "Hombres": "14315.0",
+      "Mujeres": "13822.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "28722.0",
+      "Hombres": "14629.0",
+      "Mujeres": "14093.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "29128.0",
+      "Hombres": "14836.0",
+      "Mujeres": "14292.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "29358.0",
+      "Hombres": "14949.0",
+      "Mujeres": "14409.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "30146.0",
+      "Hombres": "15375.0",
+      "Mujeres": "14771.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "30370.0",
+      "Hombres": "15474.0",
+      "Mujeres": "14896.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "30311.0",
+      "Hombres": "15373.0",
+      "Mujeres": "14938.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "30341.0",
+      "Hombres": "15371.0",
+      "Mujeres": "14970.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "30080.0",
+      "Hombres": "15236.0",
+      "Mujeres": "14844.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "29875.0",
+      "Hombres": "15083.0",
+      "Mujeres": "14792.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Bajo_Aragón-Caspe/Baix_Aragó-Casp": {
+    "Población a 1 de enero del 1998": {
+      "Total": "12885.0",
+      "Hombres": "6417.0",
+      "Mujeres": "6468.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "12947.0",
+      "Hombres": "6445.0",
+      "Mujeres": "6502.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "12783.0",
+      "Hombres": "6359.0",
+      "Mujeres": "6424.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "12741.0",
+      "Hombres": "6390.0",
+      "Mujeres": "6351.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "12604.0",
+      "Hombres": "6363.0",
+      "Mujeres": "6241.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "12658.0",
+      "Hombres": "6416.0",
+      "Mujeres": "6242.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "12895.0",
+      "Hombres": "6512.0",
+      "Mujeres": "6383.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "13241.0",
+      "Hombres": "6773.0",
+      "Mujeres": "6468.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "13606.0",
+      "Hombres": "7102.0",
+      "Mujeres": "6504.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "13575.0",
+      "Hombres": "7028.0",
+      "Mujeres": "6547.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "13940.0",
+      "Hombres": "7199.0",
+      "Mujeres": "6741.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "14775.0",
+      "Hombres": "7774.0",
+      "Mujeres": "7001.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "15016.0",
+      "Hombres": "7870.0",
+      "Mujeres": "7146.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "15077.0",
+      "Hombres": "7879.0",
+      "Mujeres": "7198.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "15039.0",
+      "Hombres": "7886.0",
+      "Mujeres": "7153.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "15008.0",
+      "Hombres": "7886.0",
+      "Mujeres": "7122.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Bajo_Cinca/Baix_Cinca": {
+    "Población a 1 de enero del 1998": {
+      "Total": "22268.0",
+      "Hombres": "11199.0",
+      "Mujeres": "11069.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "22301.0",
+      "Hombres": "11239.0",
+      "Mujeres": "11062.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "22216.0",
+      "Hombres": "11192.0",
+      "Mujeres": "11024.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "22336.0",
+      "Hombres": "11352.0",
+      "Mujeres": "10984.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "22688.0",
+      "Hombres": "11652.0",
+      "Mujeres": "11036.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "22961.0",
+      "Hombres": "11870.0",
+      "Mujeres": "11091.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "23071.0",
+      "Hombres": "11926.0",
+      "Mujeres": "11145.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "23446.0",
+      "Hombres": "12210.0",
+      "Mujeres": "11236.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "23366.0",
+      "Hombres": "12050.0",
+      "Mujeres": "11316.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "23645.0",
+      "Hombres": "12195.0",
+      "Mujeres": "11450.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "24092.0",
+      "Hombres": "12457.0",
+      "Mujeres": "11635.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "24663.0",
+      "Hombres": "12798.0",
+      "Mujeres": "11865.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "24670.0",
+      "Hombres": "12735.0",
+      "Mujeres": "11935.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "24609.0",
+      "Hombres": "12707.0",
+      "Mujeres": "11902.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "24828.0",
+      "Hombres": "12783.0",
+      "Mujeres": "12045.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "24800.0",
+      "Hombres": "12760.0",
+      "Mujeres": "12040.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Bajo_Martín": {
+    "Población a 1 de enero del 1998": {
+      "Total": "7737.0",
+      "Hombres": "3829.0",
+      "Mujeres": "3908.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "7613.0",
+      "Hombres": "3775.0",
+      "Mujeres": "3838.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "7497.0",
+      "Hombres": "3724.0",
+      "Mujeres": "3773.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "7415.0",
+      "Hombres": "3697.0",
+      "Mujeres": "3718.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "7383.0",
+      "Hombres": "3713.0",
+      "Mujeres": "3670.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "7290.0",
+      "Hombres": "3662.0",
+      "Mujeres": "3628.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "7274.0",
+      "Hombres": "3656.0",
+      "Mujeres": "3618.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "7276.0",
+      "Hombres": "3665.0",
+      "Mujeres": "3611.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "7252.0",
+      "Hombres": "3651.0",
+      "Mujeres": "3601.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "7427.0",
+      "Hombres": "3807.0",
+      "Mujeres": "3620.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "7311.0",
+      "Hombres": "3761.0",
+      "Mujeres": "3550.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "7225.0",
+      "Hombres": "3707.0",
+      "Mujeres": "3518.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "7135.0",
+      "Hombres": "3651.0",
+      "Mujeres": "3484.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "7057.0",
+      "Hombres": "3591.0",
+      "Mujeres": "3466.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "6942.0",
+      "Hombres": "3529.0",
+      "Mujeres": "3413.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "6768.0",
+      "Hombres": "3439.0",
+      "Mujeres": "3329.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Campo_de_Belchite": {
+    "Población a 1 de enero del 1998": {
+      "Total": "5674.0",
+      "Hombres": "2880.0",
+      "Mujeres": "2794.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "5680.0",
+      "Hombres": "2891.0",
+      "Mujeres": "2789.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "5672.0",
+      "Hombres": "2913.0",
+      "Mujeres": "2759.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "5610.0",
+      "Hombres": "2874.0",
+      "Mujeres": "2736.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "5505.0",
+      "Hombres": "2830.0",
+      "Mujeres": "2675.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "5336.0",
+      "Hombres": "2778.0",
+      "Mujeres": "2558.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "5281.0",
+      "Hombres": "2753.0",
+      "Mujeres": "2528.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "5221.0",
+      "Hombres": "2736.0",
+      "Mujeres": "2485.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "5196.0",
+      "Hombres": "2744.0",
+      "Mujeres": "2452.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "5222.0",
+      "Hombres": "2796.0",
+      "Mujeres": "2426.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "5282.0",
+      "Hombres": "2845.0",
+      "Mujeres": "2437.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "5288.0",
+      "Hombres": "2805.0",
+      "Mujeres": "2483.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "5260.0",
+      "Hombres": "2798.0",
+      "Mujeres": "2462.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "5284.0",
+      "Hombres": "2828.0",
+      "Mujeres": "2456.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "5188.0",
+      "Hombres": "2784.0",
+      "Mujeres": "2404.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "5093.0",
+      "Hombres": "2740.0",
+      "Mujeres": "2353.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Campo_de_Borja": {
+    "Población a 1 de enero del 1998": {
+      "Total": "13968.0",
+      "Hombres": "7086.0",
+      "Mujeres": "6882.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "14177.0",
+      "Hombres": "7220.0",
+      "Mujeres": "6957.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "14113.0",
+      "Hombres": "7170.0",
+      "Mujeres": "6943.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "14276.0",
+      "Hombres": "7365.0",
+      "Mujeres": "6911.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "14326.0",
+      "Hombres": "7400.0",
+      "Mujeres": "6926.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "14344.0",
+      "Hombres": "7431.0",
+      "Mujeres": "6913.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "14330.0",
+      "Hombres": "7405.0",
+      "Mujeres": "6925.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "14460.0",
+      "Hombres": "7478.0",
+      "Mujeres": "6982.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "14524.0",
+      "Hombres": "7531.0",
+      "Mujeres": "6993.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "14914.0",
+      "Hombres": "7776.0",
+      "Mujeres": "7138.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "15427.0",
+      "Hombres": "8084.0",
+      "Mujeres": "7343.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "15621.0",
+      "Hombres": "8164.0",
+      "Mujeres": "7457.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "15517.0",
+      "Hombres": "8083.0",
+      "Mujeres": "7434.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "15446.0",
+      "Hombres": "8034.0",
+      "Mujeres": "7412.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "15371.0",
+      "Hombres": "7987.0",
+      "Mujeres": "7384.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "14971.0",
+      "Hombres": "7766.0",
+      "Mujeres": "7205.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Campo_de_Cariñena": {
+    "Población a 1 de enero del 1998": {
+      "Total": "9842.0",
+      "Hombres": "5024.0",
+      "Mujeres": "4818.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "9895.0",
+      "Hombres": "5085.0",
+      "Mujeres": "4810.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "9899.0",
+      "Hombres": "5130.0",
+      "Mujeres": "4769.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "10068.0",
+      "Hombres": "5255.0",
+      "Mujeres": "4813.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "10501.0",
+      "Hombres": "5627.0",
+      "Mujeres": "4874.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "10715.0",
+      "Hombres": "5786.0",
+      "Mujeres": "4929.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "10719.0",
+      "Hombres": "5792.0",
+      "Mujeres": "4927.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "10861.0",
+      "Hombres": "5918.0",
+      "Mujeres": "4943.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "10580.0",
+      "Hombres": "5689.0",
+      "Mujeres": "4891.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "10606.0",
+      "Hombres": "5648.0",
+      "Mujeres": "4958.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "10987.0",
+      "Hombres": "5898.0",
+      "Mujeres": "5089.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "11214.0",
+      "Hombres": "5954.0",
+      "Mujeres": "5260.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "11173.0",
+      "Hombres": "5922.0",
+      "Mujeres": "5251.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "11350.0",
+      "Hombres": "6007.0",
+      "Mujeres": "5343.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "11059.0",
+      "Hombres": "5887.0",
+      "Mujeres": "5172.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "10802.0",
+      "Hombres": "5716.0",
+      "Mujeres": "5086.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Campo_de_Daroca": {
+    "Población a 1 de enero del 1998": {
+      "Total": "6771.0",
+      "Hombres": "3483.0",
+      "Mujeres": "3288.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "6781.0",
+      "Hombres": "3508.0",
+      "Mujeres": "3273.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "6817.0",
+      "Hombres": "3531.0",
+      "Mujeres": "3286.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "6749.0",
+      "Hombres": "3502.0",
+      "Mujeres": "3247.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "6623.0",
+      "Hombres": "3448.0",
+      "Mujeres": "3175.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "6450.0",
+      "Hombres": "3392.0",
+      "Mujeres": "3058.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "6439.0",
+      "Hombres": "3398.0",
+      "Mujeres": "3041.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "6511.0",
+      "Hombres": "3468.0",
+      "Mujeres": "3043.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "6594.0",
+      "Hombres": "3506.0",
+      "Mujeres": "3088.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "6539.0",
+      "Hombres": "3452.0",
+      "Mujeres": "3087.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "6493.0",
+      "Hombres": "3428.0",
+      "Mujeres": "3065.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "6322.0",
+      "Hombres": "3311.0",
+      "Mujeres": "3011.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "6192.0",
+      "Hombres": "3249.0",
+      "Mujeres": "2943.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "6322.0",
+      "Hombres": "3328.0",
+      "Mujeres": "2994.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "6219.0",
+      "Hombres": "3288.0",
+      "Mujeres": "2931.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "6126.0",
+      "Hombres": "3271.0",
+      "Mujeres": "2855.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Cinca_Medio": {
+    "Población a 1 de enero del 1998": {
+      "Total": "21685.0",
+      "Hombres": "10937.0",
+      "Mujeres": "10748.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "21713.0",
+      "Hombres": "10950.0",
+      "Mujeres": "10763.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "21784.0",
+      "Hombres": "10996.0",
+      "Mujeres": "10788.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "22125.0",
+      "Hombres": "11227.0",
+      "Mujeres": "10898.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "22441.0",
+      "Hombres": "11537.0",
+      "Mujeres": "10904.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "22683.0",
+      "Hombres": "11704.0",
+      "Mujeres": "10979.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "22609.0",
+      "Hombres": "11623.0",
+      "Mujeres": "10986.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "22936.0",
+      "Hombres": "11812.0",
+      "Mujeres": "11124.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "23072.0",
+      "Hombres": "11888.0",
+      "Mujeres": "11184.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "23084.0",
+      "Hombres": "11859.0",
+      "Mujeres": "11225.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "23720.0",
+      "Hombres": "12196.0",
+      "Mujeres": "11524.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "24007.0",
+      "Hombres": "12374.0",
+      "Mujeres": "11633.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "24051.0",
+      "Hombres": "12425.0",
+      "Mujeres": "11626.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "24128.0",
+      "Hombres": "12406.0",
+      "Mujeres": "11722.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "24145.0",
+      "Hombres": "12388.0",
+      "Mujeres": "11757.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "24216.0",
+      "Hombres": "12391.0",
+      "Mujeres": "11825.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Cinco_Villas": {
+    "Población a 1 de enero del 1998": {
+      "Total": "31030.0",
+      "Hombres": "15725.0",
+      "Mujeres": "15305.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "31738.0",
+      "Hombres": "16077.0",
+      "Mujeres": "15661.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "31737.0",
+      "Hombres": "16114.0",
+      "Mujeres": "15623.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "32120.0",
+      "Hombres": "16459.0",
+      "Mujeres": "15661.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "32669.0",
+      "Hombres": "16875.0",
+      "Mujeres": "15794.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "32599.0",
+      "Hombres": "16870.0",
+      "Mujeres": "15729.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "33029.0",
+      "Hombres": "17090.0",
+      "Mujeres": "15939.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "33361.0",
+      "Hombres": "17276.0",
+      "Mujeres": "16085.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "33154.0",
+      "Hombres": "17100.0",
+      "Mujeres": "16054.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "33196.0",
+      "Hombres": "17151.0",
+      "Mujeres": "16045.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "33584.0",
+      "Hombres": "17379.0",
+      "Mujeres": "16205.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "33580.0",
+      "Hombres": "17269.0",
+      "Mujeres": "16311.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "33331.0",
+      "Hombres": "17140.0",
+      "Mujeres": "16191.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "33150.0",
+      "Hombres": "17036.0",
+      "Mujeres": "16114.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "32661.0",
+      "Hombres": "16748.0",
+      "Mujeres": "15913.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "32074.0",
+      "Hombres": "16443.0",
+      "Mujeres": "15631.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Comunidad_de_Calatayud": {
+    "Población a 1 de enero del 1998": {
+      "Total": "39167.0",
+      "Hombres": "19413.0",
+      "Mujeres": "19754.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "39851.0",
+      "Hombres": "19740.0",
+      "Mujeres": "20111.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "39948.0",
+      "Hombres": "19879.0",
+      "Mujeres": "20069.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "39834.0",
+      "Hombres": "20038.0",
+      "Mujeres": "19796.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "40185.0",
+      "Hombres": "20260.0",
+      "Mujeres": "19925.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "40484.0",
+      "Hombres": "20506.0",
+      "Mujeres": "19978.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "40564.0",
+      "Hombres": "20547.0",
+      "Mujeres": "20017.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "41027.0",
+      "Hombres": "20825.0",
+      "Mujeres": "20202.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "40327.0",
+      "Hombres": "20419.0",
+      "Mujeres": "19908.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "41356.0",
+      "Hombres": "21056.0",
+      "Mujeres": "20300.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "42379.0",
+      "Hombres": "21594.0",
+      "Mujeres": "20785.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "42319.0",
+      "Hombres": "21590.0",
+      "Mujeres": "20729.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "42013.0",
+      "Hombres": "21442.0",
+      "Mujeres": "20571.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "41013.0",
+      "Hombres": "20911.0",
+      "Mujeres": "20102.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "40899.0",
+      "Hombres": "20970.0",
+      "Mujeres": "19929.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "40333.0",
+      "Hombres": "20737.0",
+      "Mujeres": "19596.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Comunidad_de_Teruel": {
+    "Población a 1 de enero del 1998": {
+      "Total": "41715.0",
+      "Hombres": "20542.0",
+      "Mujeres": "21173.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "42272.0",
+      "Hombres": "20830.0",
+      "Mujeres": "21442.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "42556.0",
+      "Hombres": "20984.0",
+      "Mujeres": "21572.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "42660.0",
+      "Hombres": "21027.0",
+      "Mujeres": "21633.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "43273.0",
+      "Hombres": "21357.0",
+      "Mujeres": "21916.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "43854.0",
+      "Hombres": "21664.0",
+      "Mujeres": "22190.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "44141.0",
+      "Hombres": "21829.0",
+      "Mujeres": "22312.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "44806.0",
+      "Hombres": "22206.0",
+      "Mujeres": "22600.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "45313.0",
+      "Hombres": "22545.0",
+      "Mujeres": "22768.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "45953.0",
+      "Hombres": "22942.0",
+      "Mujeres": "23011.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "46961.0",
+      "Hombres": "23562.0",
+      "Mujeres": "23399.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "47361.0",
+      "Hombres": "23689.0",
+      "Mujeres": "23672.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "46957.0",
+      "Hombres": "23348.0",
+      "Mujeres": "23609.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "46848.0",
+      "Hombres": "23214.0",
+      "Mujeres": "23634.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "47223.0",
+      "Hombres": "23352.0",
+      "Mujeres": "23871.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "47185.0",
+      "Hombres": "23305.0",
+      "Mujeres": "23880.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Cuencas_Mineras": {
+    "Población a 1 de enero del 1998": {
+      "Total": "9979.0",
+      "Hombres": "5217.0",
+      "Mujeres": "4762.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "9881.0",
+      "Hombres": "5167.0",
+      "Mujeres": "4714.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "9763.0",
+      "Hombres": "5101.0",
+      "Mujeres": "4662.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "9696.0",
+      "Hombres": "5084.0",
+      "Mujeres": "4612.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "9604.0",
+      "Hombres": "5060.0",
+      "Mujeres": "4544.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "9477.0",
+      "Hombres": "5016.0",
+      "Mujeres": "4461.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "9406.0",
+      "Hombres": "4977.0",
+      "Mujeres": "4429.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "9450.0",
+      "Hombres": "5022.0",
+      "Mujeres": "4428.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "9476.0",
+      "Hombres": "5075.0",
+      "Mujeres": "4401.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "9496.0",
+      "Hombres": "5076.0",
+      "Mujeres": "4420.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "9386.0",
+      "Hombres": "5046.0",
+      "Mujeres": "4340.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "9269.0",
+      "Hombres": "4972.0",
+      "Mujeres": "4297.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "9094.0",
+      "Hombres": "4864.0",
+      "Mujeres": "4230.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "9043.0",
+      "Hombres": "4809.0",
+      "Mujeres": "4234.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "8894.0",
+      "Hombres": "4747.0",
+      "Mujeres": "4147.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "8835.0",
+      "Hombres": "4709.0",
+      "Mujeres": "4126.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/D.C._Zaragoza": {
+    "Población a 1 de enero del 1998": {
+      "Total": "639411.0",
+      "Hombres": "308753.0",
+      "Mujeres": "330658.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "640346.0",
+      "Hombres": "309220.0",
+      "Mujeres": "331126.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "643602.0",
+      "Hombres": "310731.0",
+      "Mujeres": "332871.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "651622.0",
+      "Hombres": "315272.0",
+      "Mujeres": "336350.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "662941.0",
+      "Hombres": "321223.0",
+      "Mujeres": "341718.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "670239.0",
+      "Hombres": "324727.0",
+      "Mujeres": "345512.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "685873.0",
+      "Hombres": "333163.0",
+      "Mujeres": "352710.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "697532.0",
+      "Hombres": "339448.0",
+      "Mujeres": "358084.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "702662.0",
+      "Hombres": "342076.0",
+      "Mujeres": "360586.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "714604.0",
+      "Hombres": "348332.0",
+      "Mujeres": "366272.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "731315.0",
+      "Hombres": "357802.0",
+      "Mujeres": "373513.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "743280.0",
+      "Hombres": "364087.0",
+      "Mujeres": "379193.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "746719.0",
+      "Hombres": "365028.0",
+      "Mujeres": "381691.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "748360.0",
+      "Hombres": "364904.0",
+      "Mujeres": "383456.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "754880.0",
+      "Hombres": "367438.0",
+      "Mujeres": "387442.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "758380.0",
+      "Hombres": "368775.0",
+      "Mujeres": "389605.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Gúdar-Javalambre": {
+    "Población a 1 de enero del 1998": {
+      "Total": "7778.0",
+      "Hombres": "4092.0",
+      "Mujeres": "3686.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "7779.0",
+      "Hombres": "4108.0",
+      "Mujeres": "3671.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "7717.0",
+      "Hombres": "4071.0",
+      "Mujeres": "3646.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "7772.0",
+      "Hombres": "4104.0",
+      "Mujeres": "3668.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "7892.0",
+      "Hombres": "4187.0",
+      "Mujeres": "3705.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "8053.0",
+      "Hombres": "4300.0",
+      "Mujeres": "3753.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "8144.0",
+      "Hombres": "4365.0",
+      "Mujeres": "3779.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "8398.0",
+      "Hombres": "4570.0",
+      "Mujeres": "3828.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "8574.0",
+      "Hombres": "4722.0",
+      "Mujeres": "3852.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "8674.0",
+      "Hombres": "4796.0",
+      "Mujeres": "3878.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "8692.0",
+      "Hombres": "4818.0",
+      "Mujeres": "3874.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "8792.0",
+      "Hombres": "4799.0",
+      "Mujeres": "3993.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "8610.0",
+      "Hombres": "4665.0",
+      "Mujeres": "3945.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "8475.0",
+      "Hombres": "4578.0",
+      "Mujeres": "3897.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "8328.0",
+      "Hombres": "4476.0",
+      "Mujeres": "3852.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "8095.0",
+      "Hombres": "4357.0",
+      "Mujeres": "3738.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Hoya_de_Huesca/Plana_de_Uesca": {
+    "Población a 1 de enero del 1998": {
+      "Total": "59325.0",
+      "Hombres": "29155.0",
+      "Mujeres": "30170.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "59472.0",
+      "Hombres": "29230.0",
+      "Mujeres": "30242.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "59509.0",
+      "Hombres": "29260.0",
+      "Mujeres": "30249.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "59823.0",
+      "Hombres": "29440.0",
+      "Mujeres": "30383.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "60525.0",
+      "Hombres": "29766.0",
+      "Mujeres": "30759.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "61659.0",
+      "Hombres": "30367.0",
+      "Mujeres": "31292.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "62417.0",
+      "Hombres": "30813.0",
+      "Mujeres": "31604.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "63434.0",
+      "Hombres": "31370.0",
+      "Mujeres": "32064.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "64531.0",
+      "Hombres": "31962.0",
+      "Mujeres": "32569.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "65266.0",
+      "Hombres": "32357.0",
+      "Mujeres": "32909.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "66793.0",
+      "Hombres": "33216.0",
+      "Mujeres": "33577.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "67992.0",
+      "Hombres": "33832.0",
+      "Mujeres": "34160.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "68428.0",
+      "Hombres": "34004.0",
+      "Mujeres": "34424.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "68484.0",
+      "Hombres": "33897.0",
+      "Mujeres": "34587.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "68186.0",
+      "Hombres": "33634.0",
+      "Mujeres": "34552.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "68280.0",
+      "Hombres": "33643.0",
+      "Mujeres": "34637.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Jiloca": {
+    "Población a 1 de enero del 1998": {
+      "Total": "14128.0",
+      "Hombres": "7132.0",
+      "Mujeres": "6996.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "14079.0",
+      "Hombres": "7085.0",
+      "Mujeres": "6994.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "13964.0",
+      "Hombres": "7037.0",
+      "Mujeres": "6927.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "13877.0",
+      "Hombres": "6983.0",
+      "Mujeres": "6894.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "13829.0",
+      "Hombres": "6983.0",
+      "Mujeres": "6846.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "13800.0",
+      "Hombres": "7042.0",
+      "Mujeres": "6758.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "13761.0",
+      "Hombres": "7046.0",
+      "Mujeres": "6715.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "13940.0",
+      "Hombres": "7231.0",
+      "Mujeres": "6709.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "13972.0",
+      "Hombres": "7281.0",
+      "Mujeres": "6691.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "14253.0",
+      "Hombres": "7414.0",
+      "Mujeres": "6839.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "14589.0",
+      "Hombres": "7661.0",
+      "Mujeres": "6928.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "14442.0",
+      "Hombres": "7563.0",
+      "Mujeres": "6879.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "14142.0",
+      "Hombres": "7347.0",
+      "Mujeres": "6795.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "13937.0",
+      "Hombres": "7224.0",
+      "Mujeres": "6713.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "13697.0",
+      "Hombres": "7105.0",
+      "Mujeres": "6592.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "13435.0",
+      "Hombres": "6949.0",
+      "Mujeres": "6486.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/La_Jacetania": {
+    "Población a 1 de enero del 1998": {
+      "Total": "16429.0",
+      "Hombres": "8335.0",
+      "Mujeres": "8094.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "16591.0",
+      "Hombres": "8412.0",
+      "Mujeres": "8179.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "16646.0",
+      "Hombres": "8458.0",
+      "Mujeres": "8188.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "16876.0",
+      "Hombres": "8570.0",
+      "Mujeres": "8306.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "17207.0",
+      "Hombres": "8718.0",
+      "Mujeres": "8489.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "17299.0",
+      "Hombres": "8782.0",
+      "Mujeres": "8517.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "17622.0",
+      "Hombres": "8977.0",
+      "Mujeres": "8645.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "17930.0",
+      "Hombres": "9182.0",
+      "Mujeres": "8748.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "18166.0",
+      "Hombres": "9355.0",
+      "Mujeres": "8811.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "18144.0",
+      "Hombres": "9324.0",
+      "Mujeres": "8820.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "18511.0",
+      "Hombres": "9500.0",
+      "Mujeres": "9011.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "18703.0",
+      "Hombres": "9588.0",
+      "Mujeres": "9115.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "18664.0",
+      "Hombres": "9516.0",
+      "Mujeres": "9148.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "18709.0",
+      "Hombres": "9554.0",
+      "Mujeres": "9155.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "18537.0",
+      "Hombres": "9445.0",
+      "Mujeres": "9092.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "18421.0",
+      "Hombres": "9392.0",
+      "Mujeres": "9029.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/La_Litera/La_Llitera": {
+    "Población a 1 de enero del 1998": {
+      "Total": "18709.0",
+      "Hombres": "9380.0",
+      "Mujeres": "9329.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "18631.0",
+      "Hombres": "9370.0",
+      "Mujeres": "9261.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "18546.0",
+      "Hombres": "9323.0",
+      "Mujeres": "9223.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "18586.0",
+      "Hombres": "9390.0",
+      "Mujeres": "9196.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "18666.0",
+      "Hombres": "9490.0",
+      "Mujeres": "9176.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "18720.0",
+      "Hombres": "9552.0",
+      "Mujeres": "9168.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "18730.0",
+      "Hombres": "9583.0",
+      "Mujeres": "9147.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "18798.0",
+      "Hombres": "9702.0",
+      "Mujeres": "9096.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "18847.0",
+      "Hombres": "9749.0",
+      "Mujeres": "9098.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "18867.0",
+      "Hombres": "9780.0",
+      "Mujeres": "9087.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "19166.0",
+      "Hombres": "10015.0",
+      "Mujeres": "9151.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "19291.0",
+      "Hombres": "10087.0",
+      "Mujeres": "9204.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "19161.0",
+      "Hombres": "10008.0",
+      "Mujeres": "9153.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "19135.0",
+      "Hombres": "10021.0",
+      "Mujeres": "9114.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "18961.0",
+      "Hombres": "9900.0",
+      "Mujeres": "9061.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "18814.0",
+      "Hombres": "9797.0",
+      "Mujeres": "9017.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/La_Ribagorza": {
+    "Población a 1 de enero del 1998": {
+      "Total": "11755.0",
+      "Hombres": "6067.0",
+      "Mujeres": "5688.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "11904.0",
+      "Hombres": "6161.0",
+      "Mujeres": "5743.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "11856.0",
+      "Hombres": "6147.0",
+      "Mujeres": "5709.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "11944.0",
+      "Hombres": "6196.0",
+      "Mujeres": "5748.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "12129.0",
+      "Hombres": "6305.0",
+      "Mujeres": "5824.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "12263.0",
+      "Hombres": "6379.0",
+      "Mujeres": "5884.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "12549.0",
+      "Hombres": "6566.0",
+      "Mujeres": "5983.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "12705.0",
+      "Hombres": "6675.0",
+      "Mujeres": "6030.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "12811.0",
+      "Hombres": "6725.0",
+      "Mujeres": "6086.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "12953.0",
+      "Hombres": "6777.0",
+      "Mujeres": "6176.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "13276.0",
+      "Hombres": "6987.0",
+      "Mujeres": "6289.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "13332.0",
+      "Hombres": "7006.0",
+      "Mujeres": "6326.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "13473.0",
+      "Hombres": "7078.0",
+      "Mujeres": "6395.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "13395.0",
+      "Hombres": "7040.0",
+      "Mujeres": "6355.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "13182.0",
+      "Hombres": "6909.0",
+      "Mujeres": "6273.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "12942.0",
+      "Hombres": "6799.0",
+      "Mujeres": "6143.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Los_Monegros": {
+    "Población a 1 de enero del 1998": {
+      "Total": "21641.0",
+      "Hombres": "11054.0",
+      "Mujeres": "10587.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "21549.0",
+      "Hombres": "11016.0",
+      "Mujeres": "10533.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "21356.0",
+      "Hombres": "10915.0",
+      "Mujeres": "10441.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "21207.0",
+      "Hombres": "10849.0",
+      "Mujeres": "10358.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "21240.0",
+      "Hombres": "10900.0",
+      "Mujeres": "10340.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "20972.0",
+      "Hombres": "10799.0",
+      "Mujeres": "10173.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "20871.0",
+      "Hombres": "10768.0",
+      "Mujeres": "10103.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "20829.0",
+      "Hombres": "10757.0",
+      "Mujeres": "10072.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "20896.0",
+      "Hombres": "10810.0",
+      "Mujeres": "10086.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "20947.0",
+      "Hombres": "10818.0",
+      "Mujeres": "10129.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "21238.0",
+      "Hombres": "10988.0",
+      "Mujeres": "10250.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "21230.0",
+      "Hombres": "10980.0",
+      "Mujeres": "10250.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "20942.0",
+      "Hombres": "10818.0",
+      "Mujeres": "10124.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "20839.0",
+      "Hombres": "10742.0",
+      "Mujeres": "10097.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "20633.0",
+      "Hombres": "10677.0",
+      "Mujeres": "9956.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "20172.0",
+      "Hombres": "10468.0",
+      "Mujeres": "9704.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Maestrazgo": {
+    "Población a 1 de enero del 1998": {
+      "Total": "3728.0",
+      "Hombres": "1940.0",
+      "Mujeres": "1788.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "3717.0",
+      "Hombres": "1952.0",
+      "Mujeres": "1765.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "3708.0",
+      "Hombres": "1960.0",
+      "Mujeres": "1748.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "3621.0",
+      "Hombres": "1911.0",
+      "Mujeres": "1710.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "3700.0",
+      "Hombres": "1973.0",
+      "Mujeres": "1727.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "3691.0",
+      "Hombres": "1977.0",
+      "Mujeres": "1714.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "3749.0",
+      "Hombres": "2024.0",
+      "Mujeres": "1725.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "3739.0",
+      "Hombres": "2033.0",
+      "Mujeres": "1706.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "3737.0",
+      "Hombres": "2033.0",
+      "Mujeres": "1704.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "3735.0",
+      "Hombres": "2034.0",
+      "Mujeres": "1701.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "3789.0",
+      "Hombres": "2063.0",
+      "Mujeres": "1726.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "3780.0",
+      "Hombres": "2056.0",
+      "Mujeres": "1724.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "3682.0",
+      "Hombres": "1988.0",
+      "Mujeres": "1694.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "3670.0",
+      "Hombres": "1972.0",
+      "Mujeres": "1698.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "3602.0",
+      "Hombres": "1936.0",
+      "Mujeres": "1666.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "3464.0",
+      "Hombres": "1849.0",
+      "Mujeres": "1615.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Matarraña/Matarranya": {
+    "Población a 1 de enero del 1998": {
+      "Total": "8940.0",
+      "Hombres": "4551.0",
+      "Mujeres": "4389.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "8870.0",
+      "Hombres": "4523.0",
+      "Mujeres": "4347.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "8686.0",
+      "Hombres": "4453.0",
+      "Mujeres": "4233.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "8634.0",
+      "Hombres": "4455.0",
+      "Mujeres": "4179.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "8682.0",
+      "Hombres": "4501.0",
+      "Mujeres": "4181.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "8739.0",
+      "Hombres": "4557.0",
+      "Mujeres": "4182.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "8661.0",
+      "Hombres": "4520.0",
+      "Mujeres": "4141.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "8730.0",
+      "Hombres": "4585.0",
+      "Mujeres": "4145.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "8673.0",
+      "Hombres": "4571.0",
+      "Mujeres": "4102.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "8797.0",
+      "Hombres": "4658.0",
+      "Mujeres": "4139.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "8894.0",
+      "Hombres": "4751.0",
+      "Mujeres": "4143.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "8943.0",
+      "Hombres": "4743.0",
+      "Mujeres": "4200.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "8893.0",
+      "Hombres": "4692.0",
+      "Mujeres": "4201.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "8805.0",
+      "Hombres": "4629.0",
+      "Mujeres": "4176.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "8733.0",
+      "Hombres": "4571.0",
+      "Mujeres": "4162.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "8630.0",
+      "Hombres": "4501.0",
+      "Mujeres": "4129.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Ribera_Alta_del_Ebro": {
+    "Población a 1 de enero del 1998": {
+      "Total": "21595.0",
+      "Hombres": "10867.0",
+      "Mujeres": "10728.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "21746.0",
+      "Hombres": "10952.0",
+      "Mujeres": "10794.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "21870.0",
+      "Hombres": "11031.0",
+      "Mujeres": "10839.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "22109.0",
+      "Hombres": "11168.0",
+      "Mujeres": "10941.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "22564.0",
+      "Hombres": "11466.0",
+      "Mujeres": "11098.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "23114.0",
+      "Hombres": "11766.0",
+      "Mujeres": "11348.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "23554.0",
+      "Hombres": "12028.0",
+      "Mujeres": "11526.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "24354.0",
+      "Hombres": "12423.0",
+      "Mujeres": "11931.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "24875.0",
+      "Hombres": "12685.0",
+      "Mujeres": "12190.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "25745.0",
+      "Hombres": "13180.0",
+      "Mujeres": "12565.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "26952.0",
+      "Hombres": "13843.0",
+      "Mujeres": "13109.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "27810.0",
+      "Hombres": "14251.0",
+      "Mujeres": "13559.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "27827.0",
+      "Hombres": "14243.0",
+      "Mujeres": "13584.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "27775.0",
+      "Hombres": "14225.0",
+      "Mujeres": "13550.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "27913.0",
+      "Hombres": "14329.0",
+      "Mujeres": "13584.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "27765.0",
+      "Hombres": "14221.0",
+      "Mujeres": "13544.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Ribera_Baja_del_Ebro": {
+    "Población a 1 de enero del 1998": {
+      "Total": "9539.0",
+      "Hombres": "4758.0",
+      "Mujeres": "4781.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "9664.0",
+      "Hombres": "4823.0",
+      "Mujeres": "4841.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "9566.0",
+      "Hombres": "4766.0",
+      "Mujeres": "4800.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "9516.0",
+      "Hombres": "4762.0",
+      "Mujeres": "4754.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "9418.0",
+      "Hombres": "4720.0",
+      "Mujeres": "4698.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "9292.0",
+      "Hombres": "4666.0",
+      "Mujeres": "4626.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "9230.0",
+      "Hombres": "4627.0",
+      "Mujeres": "4603.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "9223.0",
+      "Hombres": "4643.0",
+      "Mujeres": "4580.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "9197.0",
+      "Hombres": "4652.0",
+      "Mujeres": "4545.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "9155.0",
+      "Hombres": "4651.0",
+      "Mujeres": "4504.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "9240.0",
+      "Hombres": "4727.0",
+      "Mujeres": "4513.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "9333.0",
+      "Hombres": "4791.0",
+      "Mujeres": "4542.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "9452.0",
+      "Hombres": "4852.0",
+      "Mujeres": "4600.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "9412.0",
+      "Hombres": "4815.0",
+      "Mujeres": "4597.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "9349.0",
+      "Hombres": "4783.0",
+      "Mujeres": "4566.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "9223.0",
+      "Hombres": "4721.0",
+      "Mujeres": "4502.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Sierra_de_Albarracín": {
+    "Población a 1 de enero del 1998": {
+      "Total": "5083.0",
+      "Hombres": "2642.0",
+      "Mujeres": "2441.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "5108.0",
+      "Hombres": "2657.0",
+      "Mujeres": "2451.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "5065.0",
+      "Hombres": "2654.0",
+      "Mujeres": "2411.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "4973.0",
+      "Hombres": "2590.0",
+      "Mujeres": "2383.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "4961.0",
+      "Hombres": "2594.0",
+      "Mujeres": "2367.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "4939.0",
+      "Hombres": "2602.0",
+      "Mujeres": "2337.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "4921.0",
+      "Hombres": "2598.0",
+      "Mujeres": "2323.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "4872.0",
+      "Hombres": "2586.0",
+      "Mujeres": "2286.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "4912.0",
+      "Hombres": "2618.0",
+      "Mujeres": "2294.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "5041.0",
+      "Hombres": "2724.0",
+      "Mujeres": "2317.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "5014.0",
+      "Hombres": "2722.0",
+      "Mujeres": "2292.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "4968.0",
+      "Hombres": "2690.0",
+      "Mujeres": "2278.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "4930.0",
+      "Hombres": "2662.0",
+      "Mujeres": "2268.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "4981.0",
+      "Hombres": "2709.0",
+      "Mujeres": "2272.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "4930.0",
+      "Hombres": "2695.0",
+      "Mujeres": "2235.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "4783.0",
+      "Hombres": "2626.0",
+      "Mujeres": "2157.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Sobrarbe": {
+    "Población a 1 de enero del 1998": {
+      "Total": "6689.0",
+      "Hombres": "3544.0",
+      "Mujeres": "3145.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "6740.0",
+      "Hombres": "3568.0",
+      "Mujeres": "3172.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "6820.0",
+      "Hombres": "3610.0",
+      "Mujeres": "3210.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "6833.0",
+      "Hombres": "3610.0",
+      "Mujeres": "3223.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "6854.0",
+      "Hombres": "3626.0",
+      "Mujeres": "3228.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "6903.0",
+      "Hombres": "3666.0",
+      "Mujeres": "3237.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "6953.0",
+      "Hombres": "3694.0",
+      "Mujeres": "3259.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "7151.0",
+      "Hombres": "3794.0",
+      "Mujeres": "3357.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "7293.0",
+      "Hombres": "3867.0",
+      "Mujeres": "3426.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "7483.0",
+      "Hombres": "3978.0",
+      "Mujeres": "3505.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "7732.0",
+      "Hombres": "4128.0",
+      "Mujeres": "3604.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "7764.0",
+      "Hombres": "4130.0",
+      "Mujeres": "3634.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "7718.0",
+      "Hombres": "4122.0",
+      "Mujeres": "3596.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "7790.0",
+      "Hombres": "4151.0",
+      "Mujeres": "3639.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "7812.0",
+      "Hombres": "4134.0",
+      "Mujeres": "3678.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "7721.0",
+      "Hombres": "4114.0",
+      "Mujeres": "3607.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Somontano_de_Barbastro": {
+    "Población a 1 de enero del 1998": {
+      "Total": "22357.0",
+      "Hombres": "11062.0",
+      "Mujeres": "11295.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "22399.0",
+      "Hombres": "11094.0",
+      "Mujeres": "11305.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "22475.0",
+      "Hombres": "11158.0",
+      "Mujeres": "11317.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "22164.0",
+      "Hombres": "11002.0",
+      "Mujeres": "11162.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "22740.0",
+      "Hombres": "11298.0",
+      "Mujeres": "11442.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "23141.0",
+      "Hombres": "11482.0",
+      "Mujeres": "11659.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "23215.0",
+      "Hombres": "11574.0",
+      "Mujeres": "11641.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "23411.0",
+      "Hombres": "11697.0",
+      "Mujeres": "11714.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "23464.0",
+      "Hombres": "11708.0",
+      "Mujeres": "11756.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "23613.0",
+      "Hombres": "11765.0",
+      "Mujeres": "11848.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "24090.0",
+      "Hombres": "12015.0",
+      "Mujeres": "12075.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "24381.0",
+      "Hombres": "12191.0",
+      "Mujeres": "12190.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "24410.0",
+      "Hombres": "12160.0",
+      "Mujeres": "12250.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "24304.0",
+      "Hombres": "12118.0",
+      "Mujeres": "12186.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "24428.0",
+      "Hombres": "12119.0",
+      "Mujeres": "12309.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "24111.0",
+      "Hombres": "11945.0",
+      "Mujeres": "12166.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Tarazona_y_el_Moncayo": {
+    "Población a 1 de enero del 1998": {
+      "Total": "14054.0",
+      "Hombres": "6910.0",
+      "Mujeres": "7144.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "14151.0",
+      "Hombres": "6957.0",
+      "Mujeres": "7194.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "14106.0",
+      "Hombres": "6936.0",
+      "Mujeres": "7170.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "14208.0",
+      "Hombres": "7016.0",
+      "Mujeres": "7192.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "14287.0",
+      "Hombres": "7058.0",
+      "Mujeres": "7229.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "14346.0",
+      "Hombres": "7096.0",
+      "Mujeres": "7250.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "14382.0",
+      "Hombres": "7140.0",
+      "Mujeres": "7242.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "14467.0",
+      "Hombres": "7181.0",
+      "Mujeres": "7286.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "14575.0",
+      "Hombres": "7264.0",
+      "Mujeres": "7311.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "14690.0",
+      "Hombres": "7350.0",
+      "Mujeres": "7340.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "14747.0",
+      "Hombres": "7404.0",
+      "Mujeres": "7343.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "14825.0",
+      "Hombres": "7468.0",
+      "Mujeres": "7357.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "14730.0",
+      "Hombres": "7440.0",
+      "Mujeres": "7290.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "14765.0",
+      "Hombres": "7447.0",
+      "Mujeres": "7318.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "14666.0",
+      "Hombres": "7401.0",
+      "Mujeres": "7265.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "14471.0",
+      "Hombres": "7323.0",
+      "Mujeres": "7148.0"
+    }
+  },
+  "http://opendata.aragon.es/recurso/territorio/Comarca/Valdejalón": {
+    "Población a 1 de enero del 1998": {
+      "Total": "21385.0",
+      "Hombres": "11028.0",
+      "Mujeres": "10357.0"
+    },
+    "Población a 1 de enero del 1999": {
+      "Total": "21496.0",
+      "Hombres": "11080.0",
+      "Mujeres": "10416.0"
+    },
+    "Población a 1 de enero del 2000": {
+      "Total": "21946.0",
+      "Hombres": "11342.0",
+      "Mujeres": "10604.0"
+    },
+    "Población a 1 de enero del 2001": {
+      "Total": "22822.0",
+      "Hombres": "11907.0",
+      "Mujeres": "10915.0"
+    },
+    "Población a 1 de enero del 2002": {
+      "Total": "23721.0",
+      "Hombres": "12528.0",
+      "Mujeres": "11193.0"
+    },
+    "Población a 1 de enero del 2003": {
+      "Total": "24579.0",
+      "Hombres": "13016.0",
+      "Mujeres": "11563.0"
+    },
+    "Población a 1 de enero del 2004": {
+      "Total": "25177.0",
+      "Hombres": "13263.0",
+      "Mujeres": "11914.0"
+    },
+    "Población a 1 de enero del 2005": {
+      "Total": "26084.0",
+      "Hombres": "13775.0",
+      "Mujeres": "12309.0"
+    },
+    "Población a 1 de enero del 2006": {
+      "Total": "26437.0",
+      "Hombres": "13854.0",
+      "Mujeres": "12583.0"
+    },
+    "Población a 1 de enero del 2007": {
+      "Total": "27423.0",
+      "Hombres": "14364.0",
+      "Mujeres": "13059.0"
+    },
+    "Población a 1 de enero del 2008": {
+      "Total": "29429.0",
+      "Hombres": "15479.0",
+      "Mujeres": "13950.0"
+    },
+    "Población a 1 de enero del 2009": {
+      "Total": "30380.0",
+      "Hombres": "15967.0",
+      "Mujeres": "14413.0"
+    },
+    "Población a 1 de enero del 2010": {
+      "Total": "30533.0",
+      "Hombres": "16051.0",
+      "Mujeres": "14482.0"
+    },
+    "Población a 1 de enero del 2011": {
+      "Total": "30018.0",
+      "Hombres": "15731.0",
+      "Mujeres": "14287.0"
+    },
+    "Población a 1 de enero del 2012": {
+      "Total": "29730.0",
+      "Hombres": "15582.0",
+      "Mujeres": "14148.0"
+    },
+    "Población a 1 de enero del 2013": {
+      "Total": "29529.0",
+      "Hombres": "15384.0",
+      "Mujeres": "14145.0"
+    }
+  }
+}
