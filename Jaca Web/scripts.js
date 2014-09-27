@@ -1,5 +1,5 @@
 ﻿var map = null, layer = null, statCloropeth = null, infoWindow = null, colorCloropeth = "#FFFFFF";
-var estadisticasGuardadas = [], bordes = true, currentType, relleno = true;
+var estadisticasGuardadas = [], bordes = true, currentType = null, relleno = true;
 
 // Create map
 function initialize() {
@@ -204,10 +204,17 @@ google.maps.event.addDomListener(window, 'load', initialize);
 	function enviarEstadisticas(a){
 		var totalEs=[];
 		var arrayUL=[];
+		if(a.parentNode.getElementsByTagName('ul').length === 0){
+			document.getElementById('estadisticas').getElementsByTagName('p')[0].insertAdjacentHTML("afterend","<ul></ul>");
+		}
 		var papa = a.parentNode.getElementsByTagName('ul')[0];
 		for(var h = 0; h < papa.children.length; h++){
 			totalEs.push(papa.children[h].getElementsByTagName('p')[0].innerHTML);//introducir la URI
 			arrayUL.push([papa.children[h].getElementsByTagName('p')[0].innerHTML,papa.children[h].lastChild.textContent]);
+		}
+		if(arrayUL.length === 0){
+			alert('Error: no hay geo-recursos seleccionados');
+			return;
 		}
 		if(document.getElementById('superior') !== null){
 			document.getElementById('superior').getElementsByTagName('svg')[0].remove();
@@ -218,17 +225,10 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		else{
 			document.getElementsByTagName('body')[0].insertAdjacentHTML("beforeend",'<div id="info"><div id="superior"><svg></svg></div><div id="inferior"></div></div>');
 		}
-		if(arrayUL.length>0){
-			document.getElementById('ds').style.display = "inline";
-			document.getElementById('ds').addEventListener('click', destroy, false);
-			createAreaChart(arrayUL);
-			createBubbleChart(arrayUL);
-		}
-		else{
-			alert('Error: no hay geo-recursos seleccionados');
-			document.getElementById('info').remove();
-			return;
-		}
+		document.getElementById('ds').style.display = "inline";
+		document.getElementById('ds').addEventListener('click', destroy, false);
+		createAreaChart(arrayUL);
+		createBubbleChart(arrayUL);
 	}
 
 	function createAreaChart(uris){
@@ -237,7 +237,6 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		d3.scale.myColors = function() {
 		    return d3.scale.ordinal().range(myColors);
 		};
-
 		nv.addGraph(function() {
 		    var chart = nv.models.stackedAreaChart()
 		                .x(function(d) { return d[0] })
