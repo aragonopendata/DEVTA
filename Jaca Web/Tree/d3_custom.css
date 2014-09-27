@@ -7,6 +7,19 @@
     width: 100%;
     overflow: scroll;
   }
+  #botonOrgano {
+    top: 5px;
+    right:3%;
+    width: auto;
+    height:auto;
+    z-index:2;
+    color: #FFFFFF;
+    float:right;
+    position: absolute;
+    border-bottom: 2px solid #FFFFFF;
+    cursor: pointer;
+    cursor: hand;
+  }
   #div {
     float:left;
     width: 100%;

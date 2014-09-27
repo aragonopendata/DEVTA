@@ -1,5 +1,4 @@
-var showTree = function showTree(){
- var jsonValues =   {
+ var jsonValues = {
   "name": "ARAGÓN",
   "Parent": "null",
   "children": [
@@ -3572,31 +3571,33 @@ var showTree = function showTree(){
     ]
   }
   ]
-}
-;
-var m = [20, 200, 20, 200],
-w = 800,
-h = 1000,
-i = 0,
-root;
-var tree = d3.layout.tree()
-.size([h, w]);
-var diagonal = d3.svg.diagonal()
-.projection(function(d) { return [d.y, d.x]; });
-var vis = d3.select("body").append("svg:svg")
-.attr("width", w + m[1] + m[3])
-.attr("height", h + m[0] + m[2])
-.append("svg:g")
-.attr("transform", "translate(" + m[3] + "," + m[0] + ")");   
-root = jsonValues;
-root.x0 = h / 2;
-root.y0 = 0;
-function toggleAll(d) {
-  if (d.children) {
-    d.children.forEach(toggleAll);
-    toggle(d);
+};
+
+var showTree = function showTree(){
+
+  var m = [20, 200, 20, 200],
+  w = 800,
+  h = 1000,
+  i = 0,
+  root;
+  var tree = d3.layout.tree()
+  .size([h, w]);
+  var diagonal = d3.svg.diagonal()
+  .projection(function(d) { return [d.y, d.x]; });
+  var vis = d3.select("body").append("svg:svg")
+  .attr("width", w + m[1] + m[3])
+  .attr("height", h + m[0] + m[2])
+  .append("svg:g")
+  .attr("transform", "translate(" + m[3] + "," + m[0] + ")");   
+  root = jsonValues;
+  root.x0 = h / 2;
+  root.y0 = 0;
+  function toggleAll(d) {
+    if (d.children) {
+      d.children.forEach(toggleAll);
+      toggle(d);
+    }
   }
-}
   // Initialize the display to show a few nodes.
   root.children.forEach(toggleAll);
   update(root);
@@ -3663,7 +3664,7 @@ function toggleAll(d) {
     link.enter().insert("svg:path", "g")
     .attr("class", "link")
     .attr("d", function(d) {
-      var o = {x: source.x0, y: source.y0 + 200};
+      var o = {x: source.x0 + 200, y: source.y0};
       return diagonal({source: o, target: o});
     })
     .transition()

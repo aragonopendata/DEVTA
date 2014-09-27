@@ -1,0 +1,62 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<title>Aragon Open Data</title>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		<link href="font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet"/>
+		<link href="Tree/d3_custom.css" rel="stylesheet"/>
+		<link href="fusiontables-base-styles.css" rel="stylesheet"/>
+		<link href="styles.css" rel="stylesheet"/>
+		<link href="nv.d3.css" rel="stylesheet"/>
+		<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyB1rRkXyuxSpIglCr9QatdCIJ-bbA5Y9rw&sensor=false"></script>
+		<link rel="favourites icon" href="favicon.ico" />
+		<link rel="shortcut icon" href="favicon.ico" />
+		<script type="text/javascript" src="lib/d3.v3.js"></script>
+		<script type="text/javascript" src="nv.d3.js"></script>
+		<script type="text/javascript" src="statistics.js"></script>		
+		<script type="text/javascript" src="d3_custom.js"></script>
+		<script type="text/javascript" src="scripts.js"></script>
+	</head>
+	<body>
+		<div id = 'cabecera'>
+			<img src ='logo_aod.png'/>
+		</div>
+		<div id = 'contenido'>
+		<div id="map_canvas"></div>
+		<div id = 'seleccionado'>
+			<p class="menuTitle"><i class="fa fa-globe"></i>Recursos</p>
+			<ul>
+				<li><i class="fa fa-circle-o"></i>Comunidad Autónoma</li>
+				<li><i class="fa fa-circle-o"></i>Provincias</li>
+				<li><i class="fa fa-circle-o"></i>Comarcas</li>
+				<li><i class="fa fa-circle-o"></i>Municipios</li>
+			</ul>
+			<div id='seeTree'><i class="fa fa-gear"></i>Visualización</div>
+			<ul>
+				<li><i class="fa fa-check-square-o"></i>Mostrar bordes</li>
+				<li><i class="fa fa-check-square-o"></i>Mostrar relleno</li>
+			</ul>
+			<div id='seeTree'><a href='Tree/tree.html' target='_blank'><i class="fa fa-tree"></i>Ver árbol</a></div>
+		</div>
+		<!--<div id='info'>
+			<div id='superior'>
+				<svg></svg>
+			</div>
+			<div id='inferior'>
+			</div>
+		</div>-->
+		<div id ='estadisticas'>
+			<p>
+				<i class="fa fa-area-chart"></i>
+				0 Geo-recursos seleccionados
+			</p>
+			<ul>
+			</ul>
+			<div id ='botonEstaditica' onclick='enviarEstadisticas(this)'><p>Ver Estadísticas</p></div>
+			</div>
+		</div>
+		<div id='ds'>
+		</div>
+	</body>
+
+</html>
