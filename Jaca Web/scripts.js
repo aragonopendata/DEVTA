@@ -170,7 +170,8 @@ function showOnMap(type){
 
 google.maps.event.addDomListener(window, 'load', initialize);
 	function showStat(uri, label){//h hash de estadisticas
-		if(estadisticasGuardadas.indexOf(uri)>=0 || estadisticasGuardadas.length>=10){alert('Error: ya se ha añadido el geo-recurso, '+label); return;}
+		if(estadisticasGuardadas.indexOf(uri)>=0){alert('Error: ya se ha añadido el geo-recurso'); return;}
+		else if(estadisticasGuardadas.length>=10){alert('Error: se ha superado el límite de geo-recurso'); return;}
 		var lish = document.getElementById('estadisticas').getElementsByTagName('ul');
 		if(lish.length === 0){
 			document.getElementById('estadisticas').getElementsByTagName('p')[0].insertAdjacentHTML("afterend","<ul></ul>");
@@ -217,14 +218,26 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		else{
 			document.getElementsByTagName('body')[0].insertAdjacentHTML("beforeend",'<div id="info"><div id="superior"><svg></svg></div><div id="inferior"></div></div>');
 		}
-		document.getElementById('ds').style.display = "inline";
-		document.getElementById('ds').addEventListener('click', destroy, false);
-		createAreaChart(arrayUL);
-		createBubbleChart(arrayUL);
+		if(arrayUL.length>0){
+			document.getElementById('ds').style.display = "inline";
+			document.getElementById('ds').addEventListener('click', destroy, false);
+			createAreaChart(arrayUL);
+			createBubbleChart(arrayUL);
+		}
+		else{
+			alert('Error: no hay geo-recursos seleccionados');
+			document.getElementById('info').remove();
+			return;
+		}
 	}
 
 	function createAreaChart(uris){
 		var json = buscarPoblacion(uris);
+		var myColors = ["#1f77b4", "#ff7f0e", "#2ca02c", "#d62728", "#9467bd", "#8c564b", "#e377c2", "#7f7f7f", "#bcbd22", "#17becf"];
+		d3.scale.myColors = function() {
+		    return d3.scale.ordinal().range(myColors);
+		};
+
 		nv.addGraph(function() {
 		    var chart = nv.models.stackedAreaChart()
 		                .x(function(d) { return d[0] })
@@ -232,7 +245,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		                .clipEdge(true)
 		                .useInteractiveGuideline(true)
 		                .showControls(false)
-		                .showLegend(true);
+		                .showLegend(true).color(d3.scale.myColors().range());
 
 		  chart.xAxis
 		      .showMaxMin(false);
@@ -244,7 +257,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		  d3.select('#superior svg')
 		    .datum(json)
 		    .transition().duration(500).call(chart);
-		  nv.utils.windowResize(chart.update);
+		  //nv.utils.windowResize(chart.update);
 		  return chart;
 		});
 	}
