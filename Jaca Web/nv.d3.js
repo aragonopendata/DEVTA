@@ -4938,6 +4938,7 @@ nv.models.indentedTree = function() {
       seriesEnter.append('text')
           .attr('text-anchor', 'start')
           .attr('class','nv-legend-text')
+          .style('fill', function(d,i) { return d.color || color(d,i)})
           .attr('dy', '.32em')
           .attr('dx', '8');
       series.classed('disabled', function(d) { return d.disabled });
