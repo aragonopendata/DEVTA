@@ -62,7 +62,6 @@ function showOnMap(type){
 		layer = null;
 		if(type === null) return;
 	}
-	else{
 		var url;
 
 		if(type === 'Municipios'){
@@ -165,7 +164,6 @@ function showOnMap(type){
 		infoWindow.setPosition(e.latLng);
 		infoWindow.open(map);
 	});
-	}
 }
 
 google.maps.event.addDomListener(window, 'load', initialize);
