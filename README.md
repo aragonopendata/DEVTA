@@ -22,6 +22,10 @@ Data is the most important part of the dashboard and its development, data clean
 
 Also, this dashboard allows to represent data associated with one or more URIs that the user can view. This representation is supported for d3.js library.
 
+Screenshot:
+
+![AragonOData_Screenshot](./Resources/Screenshot.png)
+
 In short, it has been a very satisfying experience for both team members and we hope you like it.
 
 Thanks for all. DEVTA.
