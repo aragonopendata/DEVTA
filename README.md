@@ -6,13 +6,13 @@ This is our first hackathon or jacathon :) and we are very excited that we are h
 
 We have achieved use to the knowledge learn in each sessions.
 
-DBPedia : **SPARQL** Endpoint and queries
-AragoDBPedia : **API** Rest
-AragoPedia : CKAN and **Resources** catalog
-**d3** : Tree collapsable and charts
-Scraping : **Requests** (Python) for get parameters of DBPedia-es
-**Fusion Tables** : Maps and Cloropeth data
-Google Maps v3 : JavaScript library for **maps** visualization
+- DBPedia : **SPARQL** Endpoint and queries
+- AragoDBPedia : **API** Rest
+- AragoPedia : CKAN and **Resources** catalog
+- **d3** : Tree collapsable and charts
+- Scraping : **Requests** (Python) for get parameters of DBPedia-es
+- **Fusion Tables** : Maps and Cloropeth data
+- Google Maps v3 : JavaScript library for **maps** visualization
 
 -----------------------------------------
 
