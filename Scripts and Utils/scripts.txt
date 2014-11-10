@@ -102,7 +102,7 @@ Padrón Comarcal
 
 **Ejecución para convertir archivos .shp en .kml e importarlos luego en Fusion Tables**
 
-ogr2ogr -f "KML" kml_file.kml shp_file.kml
+ogr2ogr -f "KML" kml_file.kml shp_file.shp
 
 ---------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------
